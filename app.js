@@ -48,11 +48,17 @@ function findCurrentIndex(){
   const i=state.items.findIndex(x=>!state.watched.has(keyFor(x)));
   return i>=0?i:0;
 }
+function backlogPositions(){
+  return new Set((state.data.backlogPositions||[]).map(Number));
+}
 function applyInitialState(){
   if(localStorage.getItem(STORAGE.initialized)) return;
   const through=Number(state.data.initialWatchedThrough)||0;
+  const backlog=backlogPositions();
+  const forcedUnmarked=new Set((state.data.specialUnmarkedPositions||[]).map(Number));
   state.items.forEach(x=>{
-    if((Number(x.position)||0) <= through) state.watched.add(keyFor(x));
+    const p=Number(x.position)||0;
+    if(p <= through && !backlog.has(p) && !forcedUnmarked.has(p)) state.watched.add(keyFor(x));
   });
   localStorage.setItem(STORAGE.initialized,"1");
 }
@@ -97,7 +103,8 @@ function render(){
 }
 function go(i){ if(i<0||i>=state.items.length)return; state.index=i; render(); window.scrollTo({top:0,behavior:"smooth"}); }
 function nextUnwatched(){
-  const i=state.items.findIndex(x=>!state.watched.has(keyFor(x)));
+  const backlog=backlogPositions();
+  const i=state.items.findIndex(x=>!backlog.has(Number(x.position)) && !state.watched.has(keyFor(x)));
   go(i>=0?i:state.items.length-1);
 }
 function toggleWatched(){
