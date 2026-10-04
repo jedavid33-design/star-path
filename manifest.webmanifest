@@ -1,0 +1,9 @@
+{
+  "name": "Star Path — Chronological Watch",
+  "short_name": "Star Path",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080813",
+  "theme_color": "#0a0a16",
+  "description": "A click-through chronological Star Wars watch navigator."
+}
