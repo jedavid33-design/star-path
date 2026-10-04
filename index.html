@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a16">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Star Path">
+  <title>Star Path — Chronological Watch</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="stars stars-a"></div>
+  <div class="stars stars-b"></div>
+
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">STAR WARS • CHRONOLOGICAL WATCH</div>
+        <h1>Star Path</h1>
+      </div>
+      <button id="menuBtn" class="icon-btn" aria-label="Open tools">•••</button>
+    </header>
+
+    <section class="progress-wrap" aria-label="Watch progress">
+      <div class="progress-copy">
+        <span id="progressText">Loading…</span>
+        <span id="loadedText"></span>
+      </div>
+      <div class="progress-track"><div id="progressBar" class="progress-bar"></div></div>
+    </section>
+
+    <section id="card" class="watch-card" aria-live="polite">
+      <div class="card-top">
+        <span id="eraBadge" class="era-badge"></span>
+        <span id="timing" class="timing"></span>
+      </div>
+      <div id="position" class="position"></div>
+      <h2 id="show"></h2>
+      <div id="episode" class="episode"></div>
+      <h3 id="title"></h3>
+      <div id="instructionBox" class="instructions hidden">
+        <div class="instruction-label">WATCH NOTE</div>
+        <div id="instructions"></div>
+      </div>
+      <div id="watchedStamp" class="watched-stamp hidden">✓ WATCHED</div>
+    </section>
+
+    <section class="primary-actions">
+      <button id="prevBtn" class="btn secondary">← Previous</button>
+      <button id="watchedBtn" class="btn primary">✓ Watched</button>
+      <button id="nextBtn" class="btn secondary">Next →</button>
+    </section>
+
+    <section class="quick-actions">
+      <button id="timelineBtn" class="pill">Full Timeline</button>
+      <button id="eraBtn" class="pill">Jump to Era</button>
+      <button id="currentBtn" class="pill">Current Position</button>
+    </section>
+
+    <div id="sliceNote" class="slice-note"></div>
+  </main>
+
+  <dialog id="timelineDialog">
+    <div class="dialog-shell large">
+      <div class="dialog-head">
+        <div>
+          <div class="eyebrow">TIMELINE</div>
+          <h2>Your chronology</h2>
+        </div>
+        <button class="icon-btn close-dialog" aria-label="Close">×</button>
+      </div>
+      <input id="searchBox" class="search" type="search" placeholder="Search show, episode, title…">
+      <div id="timelineList" class="timeline-list"></div>
+    </div>
+  </dialog>
+
+  <dialog id="eraDialog">
+    <div class="dialog-shell">
+      <div class="dialog-head">
+        <div>
+          <div class="eyebrow">JUMP</div>
+          <h2>Choose an era</h2>
+        </div>
+        <button class="icon-btn close-dialog" aria-label="Close">×</button>
+      </div>
+      <div id="eraList" class="era-list"></div>
+    </div>
+  </dialog>
+
+  <dialog id="toolsDialog">
+    <div class="dialog-shell">
+      <div class="dialog-head">
+        <div>
+          <div class="eyebrow">TOOLS</div>
+          <h2>Timeline controls</h2>
+        </div>
+        <button class="icon-btn close-dialog" aria-label="Close">×</button>
+      </div>
+
+      <button id="importBtn" class="tool-row">
+        <span><strong>Import master list</strong><small>TXT or JSON. Replaces only the timeline data.</small></span>
+        <span>›</span>
+      </button>
+      <input id="fileInput" type="file" accept=".txt,.json,text/plain,application/json" hidden>
+
+      <button id="pasteBtn" class="tool-row">
+        <span><strong>Paste master list</strong><small>Handles numbered Muse-style chronology text.</small></span>
+        <span>›</span>
+      </button>
+
+      <button id="exportBtn" class="tool-row">
+        <span><strong>Export progress backup</strong><small>Saves watched state + current position.</small></span>
+        <span>›</span>
+      </button>
+
+      <button id="resetBtn" class="tool-row danger">
+        <span><strong>Reset progress</strong><small>Keeps the timeline, clears watched state.</small></span>
+        <span>›</span>
+      </button>
+    </div>
+  </dialog>
+
+  <dialog id="pasteDialog">
+    <div class="dialog-shell large">
+      <div class="dialog-head">
+        <div>
+          <div class="eyebrow">IMPORT</div>
+          <h2>Paste the master chronology</h2>
+        </div>
+        <button class="icon-btn close-dialog" aria-label="Close">×</button>
+      </div>
+      <textarea id="pasteArea" class="paste-area" placeholder="001&#10;Fun with Nubs — S1E1 “Nubs Loses his Lightsaber”&#10;&#10;002&#10;…"></textarea>
+      <button id="parsePasteBtn" class="btn primary wide">Import chronology</button>
+      <p class="helper">Era headings and timestamp/watch-note lines are preserved when the parser can identify them.</p>
+    </div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>
