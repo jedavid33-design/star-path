@@ -1,20 +1,28 @@
 # PROJECT STATE — Star Path
-Version: 0.2.0
-Master handoff: 2026-10-01
+Version: 0.3.0
+Updated: 2026-10-03
 
 ## Source of truth
-The 527-item Star Wars canon chronological handoff supplied by Julie.
+Julie’s Star Wars canon chronological watch list plus the canon Fun with Nubs digital shorts.
+
+## Master count
+547 items.
+
+## Fun with Nubs
+Items 1–20 are the 20 canon Fun with Nubs shorts.
+They are grouped as one High Republic block in c. 233–232 BBY.
+Do not imply a finer episode-by-episode interleave unless a reliable source supports it.
 
 ## Viewer state
-Watched through item 443:
+Watched through shifted item 463:
 The Mandalorian S3E3 “Chapter 19: The Convert”
 
 Next item:
-444 — The Mandalorian S3E4 “Chapter 20: The Foundling”
+464 — The Mandalorian S3E4 “Chapter 20: The Foundling”
 
 ## Porg Problems
-Item 518 — Forces of Destiny S2E8 “Porg Problems”
-Julie explicitly requested that it remain UNMARKED.
+Item 538 — Forces of Destiny S2E8 “Porg Problems”
+Keep it UNMARKED.
 Do not auto-skip it and do not pre-check it.
 
 ## Rules
