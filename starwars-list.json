@@ -1,0 +1,4950 @@
+{
+  "name": "Julie’s Star Wars Canon Chronological Watch",
+  "version": 3,
+  "masterTotal": 547,
+  "sourceVersion": "2026-10-03",
+  "currentPosition": 464,
+  "initialWatchedThrough": 463,
+  "preWatchedTitles": [],
+  "specialUnmarkedPositions": [
+    538
+  ],
+  "rules": {
+    "canonScreenStoriesOnly": true,
+    "sceneCueOverFakeExactTimestamp": true,
+    "wholeEpisodeFlashbackRule": true
+  },
+  "items": [
+    {
+      "position": 1,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E1",
+      "title": "“Nubs Loses his Lightsaber”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 2,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E2",
+      "title": "“RJ Repairs the Firehawk”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 3,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E3",
+      "title": "“Nubs Cleans Up”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 4,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E4",
+      "title": "“RJ Needs a Tool”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 5,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E5",
+      "title": "“Nubs Tries to Meditate”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 6,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E6",
+      "title": "“RJ Goes For A Swim”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 7,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E7",
+      "title": "“Nubs Gardens”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 8,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E8",
+      "title": "“RJ Fixes the Speeder”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 9,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E9",
+      "title": "“Nubs and RJ Dance”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 10,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E10",
+      "title": "“Nubs Can't Stop Sneezing”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 11,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E11",
+      "title": "“Nubs Gets Stuck”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 12,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E12",
+      "title": "“RJ Makes a Friend”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 13,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E13",
+      "title": "“Nubs Learns To Paint”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 14,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E14",
+      "title": "“RJ Makes Music”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 15,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E15",
+      "title": "“Nubs Tries To Sleep”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 16,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E16",
+      "title": "“RJ Learns to Fly”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 17,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E17",
+      "title": "“Nubs Gets A Tummy Ache”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 18,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E18",
+      "title": "“RJ Makes a Speedy Delivery”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 19,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E19",
+      "title": "“Nubs Faces a Bug”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 20,
+      "era": "High Republic",
+      "show": "Fun with Nubs",
+      "episode": "S1E20",
+      "title": "“Nubs and RJ Jam Out”",
+      "instructions": "Canon digital short. Approximate placement within the Young Jedi Adventures High Republic period; no finer episode-by-episode interleave is asserted.",
+      "timing": "c. 233–232 BBY"
+    },
+    {
+      "position": 21,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E1",
+      "title": "“The Young Jedi” / “Yoda’s Mission”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 22,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E2",
+      "title": "“Nash’s Race Day” / “The Lost Jedi Ship”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 23,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E3",
+      "title": "“Get Well Nubs” / “The Junk Giant”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 24,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E4",
+      "title": "“Lys and the Snowy Mountain Rescue” / “Attack of the Training Droids”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 25,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E5",
+      "title": "“The Jellyfruit Pursuit” / “Creature Safari”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 26,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E6",
+      "title": "“Squadron” / “Forest Defenders”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 27,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E7",
+      "title": "“The Jedi and the Thief” / “The Missing Kibbin”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 28,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E8",
+      "title": "“The Girl and Her Gargantua” / “The Show Must Go On”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 29,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E9",
+      "title": "“The Princess and the Jedi” / “Kai’s Bad Day”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 30,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E10",
+      "title": "“Visitor’s Day” / “The Growing Green Danger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 31,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E11",
+      "title": "“The Ganguls” / “Bad Eggs”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 32,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E12",
+      "title": "“Off the Rails” / “The Thieves of Tharnaka”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 33,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E13",
+      "title": "“Tree Troubles” / “Big Brother’s Bounty”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 34,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E14",
+      "title": "“Charhound Chase” / “Creature Comforts”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 35,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E15",
+      "title": "“An Adventure with Yoda” / “The Talon Takeover”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 36,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E16",
+      "title": "“Mystery of the Opal Cave” / “Clash”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 37,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E17",
+      "title": "“Stuck in the Muck” / “Junkyard Sleepover”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 38,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E18",
+      "title": "“The Great Leaf Glide” / “The Harvest Feast”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 39,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E19",
+      "title": "“Life Day” / “Raxlo Strikes Back”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 40,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E20",
+      "title": "“Aftershock” / “Feather Frenzy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 41,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E21",
+      "title": "“Best Friends” / “Happy Trails, Nubs”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 42,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E22",
+      "title": "“The Tale of the Short Spire” / “The Team Up”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 43,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E23",
+      "title": "“The Caves of Batuu” / “Finders Keepers”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 44,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E24",
+      "title": "“The Starship Show” / “Nash’s Super Busy Day”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 45,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S1E25",
+      "title": "“The Prince and the Pirate”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 46,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E1",
+      "title": "“Heroes and Hotshots” / “A Jedi or a Pirate”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 47,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E2",
+      "title": "“The Rustler Roundup” / “A New Discovery”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 48,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E3",
+      "title": "“A Pirate’s Pet” / “The Secret Ship”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 49,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E4",
+      "title": "“Nubs’ Big Mistake” / “The Jedi Rescue”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 50,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E5",
+      "title": "“Terror of Tenoo” / “The Prince of Masks”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 51,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E6",
+      "title": "“Battle for the Band” / “Uprooted”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 52,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E7",
+      "title": "“Mine and Ours” / “The Andraven Circuit”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 53,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E8",
+      "title": "“The Great Gomgourd Quest” / “A Sticky Situation”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 54,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E9",
+      "title": "“The Missing Life Day Feast” / “The Lost Treasure of Tenoo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 55,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E10",
+      "title": "“The Wild Aklyrr” / “Lys’ Lost Lightsaber”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 56,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E11",
+      "title": "“Tower Run” / “The Jumping Jetpack”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 57,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E12",
+      "title": "“Unmasked”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 58,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E13",
+      "title": "“Just Like Wes” / “Raxlo to the Rescue”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 59,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E14",
+      "title": "“The Helpful Harvester” / “Lost Little Droid”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 60,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E15",
+      "title": "“Tenoo’s Fastest” / “Home Sweet Temple”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 61,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E16",
+      "title": "“The Firehawk Feud” / “The Chop Shop Calamity”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 62,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E17",
+      "title": "“Big Pooba Problems” / “Best Bounty Buddies”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 63,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E18",
+      "title": "“The Rainy Day Beast” / “Upgraded”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 64,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E19",
+      "title": "“Journey to the Bracca Badlands” / “The Search for the Missing Dunnels”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 65,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E20",
+      "title": "“The Spaceport Setback” / “The Mission Mixup”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 66,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E21",
+      "title": "“Yoda Rescue” / “Fossil Hunt”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 67,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E22",
+      "title": "“A Mission to Remember” / “The Bounty Hunter and the Thief”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 68,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S2E23",
+      "title": "“The Battle of Tenoo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 69,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S3E1",
+      "title": "“The New Droid Friends” / “Batuu Bonanza”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 70,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S3E2",
+      "title": "“Music Mayhem” / “The Night Lights of Tenoo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 71,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S3E3",
+      "title": "“Journey to the Bottom of Naboo” / “Speeder Surprise”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 72,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S3E4",
+      "title": "“Scrapping for a Song” / “Bell and the Band”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 73,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S3E5",
+      "title": "“To Do Good” / “Nubs and the Bumbling Bandits”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 74,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S3E6",
+      "title": "“Apexx Awakens” / “Harvester Madness”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 75,
+      "era": "High Republic",
+      "show": "Young Jedi Adventures",
+      "episode": "S3E7",
+      "title": "“Making Friends”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 76,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E1",
+      "title": "“Lost / Found”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 77,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E2",
+      "title": "“Revenge / Justice”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 78,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E3",
+      "title": "“Destiny”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 79,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E4",
+      "title": "“Day”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 80,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E5",
+      "title": "“Night”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 81,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E6",
+      "title": "“Teach / Corrupt”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 82,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E7",
+      "title": "“Choice”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 83,
+      "era": "High Republic",
+      "show": "The Acolyte",
+      "episode": "S1E8",
+      "title": "“The Acolyte”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 84,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Jedi",
+      "episode": "S1E2",
+      "title": "“Justice”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 85,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Underworld",
+      "episode": "S1E4",
+      "title": "“The Good Life”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 86,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Jedi",
+      "episode": "S1E3",
+      "title": "“Choices”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 87,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Underworld",
+      "episode": "S1E5",
+      "title": "“A Good Turn”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 88,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Jedi",
+      "episode": "S1E1",
+      "title": "“Life and Death”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 89,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Underworld",
+      "episode": "S1E6",
+      "title": "“One Good Deed”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 90,
+      "era": "Prequels / Clone Wars",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode I: The Phantom Menace",
+      "instructions": "Watch the whole movie.",
+      "timing": ""
+    },
+    {
+      "position": 91,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Jedi",
+      "episode": "S1E4",
+      "title": "“The Sith Lord”",
+      "instructions": "Scene-level insert. If not using a cut-by-cut chronology, watch the entire short immediately after Episode I.",
+      "timing": ""
+    },
+    {
+      "position": 92,
+      "era": "Prequels / Clone Wars",
+      "show": "Forces of Destiny",
+      "episode": "S2E10",
+      "title": "“Monster Misunderstanding”",
+      "instructions": "Approximate placement.",
+      "timing": ""
+    },
+    {
+      "position": 93,
+      "era": "Prequels / Clone Wars",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode II: Attack of the Clones",
+      "instructions": "Watch the whole movie.",
+      "timing": ""
+    },
+    {
+      "position": 94,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Jedi",
+      "episode": "S1E5",
+      "title": "“Practice Makes Perfect”",
+      "instructions": "This anthology episode spans multiple points in the Clone Wars; it is not a single-date story.",
+      "timing": ""
+    },
+    {
+      "position": 95,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E16",
+      "title": "“Cat and Mouse”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 96,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E16",
+      "title": "“The Hidden Enemy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 97,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "",
+      "title": "The Clone Wars (2008 film)",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 98,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E1",
+      "title": "“Clone Cadets”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 99,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E3",
+      "title": "“Supply Lines”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 100,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E1",
+      "title": "“Ambush”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 101,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E2",
+      "title": "“Rising Malevolence”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 102,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E3",
+      "title": "“Shadow of Malevolence”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 103,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E4",
+      "title": "“Destroy Malevolence”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 104,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E5",
+      "title": "“Rookies”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 105,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E6",
+      "title": "“Downfall of a Droid”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 106,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E7",
+      "title": "“Duel of the Droids”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 107,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E8",
+      "title": "“Bombad Jedi”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 108,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E9",
+      "title": "“Cloak of Darkness”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 109,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E10",
+      "title": "“Lair of Grievous”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 110,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E11",
+      "title": "“Dooku Captured”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 111,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E12",
+      "title": "“The Gungan General”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 112,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E13",
+      "title": "“Jedi Crash”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 113,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E14",
+      "title": "“Defenders of Peace”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 114,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E15",
+      "title": "“Trespass”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 115,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E17",
+      "title": "“Blue Shadow Virus”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 116,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E18",
+      "title": "“Mystery of a Thousand Moons”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 117,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E19",
+      "title": "“Storm Over Ryloth”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 118,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E20",
+      "title": "“Innocents of Ryloth”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 119,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E21",
+      "title": "“Liberty on Ryloth”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 120,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E1",
+      "title": "“Holocron Heist”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 121,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E2",
+      "title": "“Cargo of Doom”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 122,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E3",
+      "title": "“Children of the Force”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 123,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E17",
+      "title": "“Bounty Hunters”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 124,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E18",
+      "title": "“The Zillo Beast”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 125,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E19",
+      "title": "“The Zillo Beast Strikes Back”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 126,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E4",
+      "title": "“Senate Spy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 127,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E5",
+      "title": "“Landing at Point Rain”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 128,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E6",
+      "title": "“Weapons Factory”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 129,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E7",
+      "title": "“Legacy of Terror”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 130,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E8",
+      "title": "“Brain Invaders”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 131,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E9",
+      "title": "“Grievous Intrigue”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 132,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E10",
+      "title": "“The Deserter”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 133,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E11",
+      "title": "“Lightsaber Lost”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 134,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E12",
+      "title": "“The Mandalore Plot”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 135,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E13",
+      "title": "“Voyage of Temptation”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 136,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E14",
+      "title": "“Duchess of Mandalore”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 137,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E20",
+      "title": "“Death Trap”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 138,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E21",
+      "title": "“R2 Come Home”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 139,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E22",
+      "title": "“Lethal Trackdown”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 140,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E5",
+      "title": "“Corruption”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 141,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E6",
+      "title": "“The Academy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 142,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E7",
+      "title": "“Assassin”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 143,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E2",
+      "title": "“ARC Troopers”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 144,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E4",
+      "title": "“Sphere of Influence”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 145,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E8",
+      "title": "“Evil Plans”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 146,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S1E22",
+      "title": "“Hostage Crisis”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 147,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E9",
+      "title": "“Hunt for Ziro”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 148,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E10",
+      "title": "“Heroes on Both Sides”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 149,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E11",
+      "title": "“Pursuit of Peace”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 150,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S2E15",
+      "title": "“Senate Murders”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 151,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E12",
+      "title": "“Nightsisters”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 152,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E13",
+      "title": "“Monster”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 153,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E14",
+      "title": "“Witches of the Mist”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 154,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E15",
+      "title": "“Overlords”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 155,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E16",
+      "title": "“Altar of Mortis”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 156,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E17",
+      "title": "“Ghosts of Mortis”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 157,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E18",
+      "title": "“The Citadel”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 158,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E19",
+      "title": "“Counterattack”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 159,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E20",
+      "title": "“Citadel Rescue”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 160,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E21",
+      "title": "“Padawan Lost”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 161,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S3E22",
+      "title": "“Wookiee Hunt”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 162,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E1",
+      "title": "“Water War”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 163,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E2",
+      "title": "“Gungan Attack”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 164,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E3",
+      "title": "“Prisoners”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 165,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E4",
+      "title": "“Shadow Warrior”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 166,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E5",
+      "title": "“Mercy Mission”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 167,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E6",
+      "title": "“Nomad Droids”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 168,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E7",
+      "title": "“Darkness on Umbara”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 169,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E8",
+      "title": "“The General”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 170,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E9",
+      "title": "“Plan of Dissent”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 171,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E10",
+      "title": "“Carnage of Krell”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 172,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E11",
+      "title": "“Kidnapped”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 173,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E12",
+      "title": "“Slaves of the Republic”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 174,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E13",
+      "title": "“Escape from Kadavo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 175,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E14",
+      "title": "“A Friend in Need”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 176,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E15",
+      "title": "“Deception”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 177,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E16",
+      "title": "“Friends and Enemies”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 178,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E17",
+      "title": "“The Box”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 179,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E18",
+      "title": "“Crisis on Naboo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 180,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E19",
+      "title": "“Massacre”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 181,
+      "era": "Prequels / Clone Wars",
+      "show": "Tales of the Empire",
+      "episode": "S1E1",
+      "title": "“The Path of Fear”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 182,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E20",
+      "title": "“Bounty”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 183,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E21",
+      "title": "“Brothers”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 184,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S4E22",
+      "title": "“Revenge”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 185,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E2",
+      "title": "“A War on Two Fronts”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 186,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E3",
+      "title": "“Front Runners”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 187,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E4",
+      "title": "“The Soft War”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 188,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E5",
+      "title": "“Tipping Points”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 189,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E6",
+      "title": "“The Gathering”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 190,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E7",
+      "title": "“A Test of Strength”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 191,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E8",
+      "title": "“Bound for Rescue”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 192,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E9",
+      "title": "“A Necessary Bond”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 193,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E10",
+      "title": "“Secret Weapons”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 194,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E11",
+      "title": "“A Sunny Day in the Void”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 195,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E12",
+      "title": "“Missing in Action”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 196,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E13",
+      "title": "“Point of No Return”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 197,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E1",
+      "title": "“Revival”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 198,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E14",
+      "title": "“Eminence”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 199,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E15",
+      "title": "“Shades of Reason”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 200,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E16",
+      "title": "“The Lawless”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 201,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E17",
+      "title": "“Sabotage”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 202,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E18",
+      "title": "“The Jedi Who Knew Too Much”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 203,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E19",
+      "title": "“To Catch a Jedi”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 204,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S5E20",
+      "title": "“The Wrong Jedi”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 205,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E1",
+      "title": "“The Unknown”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 206,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E2",
+      "title": "“Conspiracy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 207,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E3",
+      "title": "“Fugitive”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 208,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E4",
+      "title": "“Orders”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 209,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E5",
+      "title": "“An Old Friend”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 210,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E6",
+      "title": "“The Rise of Clovis”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 211,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E7",
+      "title": "“Crisis at the Heart”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 212,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E8",
+      "title": "“The Disappeared”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 213,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E9",
+      "title": "“The Disappeared, Part II”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 214,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E10",
+      "title": "“The Lost One”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 215,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E11",
+      "title": "“Voices”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 216,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E12",
+      "title": "“Destiny”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 217,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S6E13",
+      "title": "“Sacrifice”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 218,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E5",
+      "title": "“Gone with a Trace”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 219,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E6",
+      "title": "“Deal No Deal”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 220,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E7",
+      "title": "“Dangerous Debt”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 221,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E8",
+      "title": "“Together Again”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 222,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E1",
+      "title": "“The Bad Batch”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 223,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E2",
+      "title": "“A Distant Echo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 224,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E3",
+      "title": "“On the Wings of Keeradaks”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 225,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E4",
+      "title": "“Unfinished Business”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 226,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E9",
+      "title": "“Old Friends Not Forgotten”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 227,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E10",
+      "title": "“The Phantom Apprentice”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 228,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E11",
+      "title": "“Shattered”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 229,
+      "era": "Prequels / Clone Wars",
+      "show": "The Clone Wars",
+      "episode": "S7E12",
+      "title": "“Victory and Death”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 230,
+      "era": "Prequels / Clone Wars",
+      "show": "Forces of Destiny",
+      "episode": "S1E4",
+      "title": "“The Padawan Path”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 231,
+      "era": "Prequels / Clone Wars",
+      "show": "Forces of Destiny",
+      "episode": "S1E6",
+      "title": "“The Imposter Inside”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 232,
+      "era": "Prequels / Clone Wars",
+      "show": "Forces of Destiny",
+      "episode": "S1E11",
+      "title": "“Teach You, I Will”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 233,
+      "era": "Prequels / Clone Wars",
+      "show": "Forces of Destiny",
+      "episode": "S1E12",
+      "title": "“The Starfighter Stunt”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 234,
+      "era": "Prequels / Clone Wars",
+      "show": "Forces of Destiny",
+      "episode": "S2E2",
+      "title": "“Unexpected Company”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 235,
+      "era": "Prequels / Clone Wars",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode III: Revenge of the Sith",
+      "instructions": "Watch the whole movie. The Clone Wars S7E11 “Shattered” and S7E12 “Victory and Death” are concurrent with the film; maximum chronology requires scene-level/timestamp surgery.",
+      "timing": ""
+    },
+    {
+      "position": 236,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E1",
+      "title": "“Aftermath”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 237,
+      "era": "Early Empire",
+      "show": "Tales of the Empire",
+      "episode": "S1E4",
+      "title": "“Devoted”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 238,
+      "era": "Early Empire",
+      "show": "Tales of the Empire",
+      "episode": "S1E5",
+      "title": "“Realization”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 239,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E2",
+      "title": "“Cut and Run”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 240,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E3",
+      "title": "“Replacements”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 241,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E4",
+      "title": "“Cornered”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 242,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E5",
+      "title": "“Rampage”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 243,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E6",
+      "title": "“Decommissioned”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 244,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E7",
+      "title": "“Battle Scars”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 245,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E8",
+      "title": "“Reunion”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 246,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E9",
+      "title": "“Bounty Lost”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 247,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E10",
+      "title": "“Common Ground”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 248,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E11",
+      "title": "“Devil’s Deal”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 249,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E12",
+      "title": "“Rescue on Ryloth”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 250,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E13",
+      "title": "“Infested”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 251,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E14",
+      "title": "“War-Mantle”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 252,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E15",
+      "title": "“Return to Kamino”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 253,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S1E16",
+      "title": "“Kamino Lost”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 254,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E1",
+      "title": "“Spoils of War”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 255,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E2",
+      "title": "“Ruins of War”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 256,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E3",
+      "title": "“The Solitary Clone”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 257,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E4",
+      "title": "“Faster”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 258,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E5",
+      "title": "“Entombed”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 259,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E6",
+      "title": "“Tribe”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 260,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E7",
+      "title": "“The Clone Conspiracy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 261,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E8",
+      "title": "“Truth and Consequences”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 262,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E9",
+      "title": "“The Crossing”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 263,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E10",
+      "title": "“Retrieval”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 264,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E11",
+      "title": "“Metamorphosis”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 265,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E12",
+      "title": "“The Outpost”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 266,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E13",
+      "title": "“Pabu”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 267,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E14",
+      "title": "“Tipping Point”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 268,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E15",
+      "title": "“The Summit”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 269,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S2E16",
+      "title": "“Plan 99”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 270,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E1",
+      "title": "“Confined”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 271,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E2",
+      "title": "“Paths Unknown”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 272,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E3",
+      "title": "“Shadows of Tantiss”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 273,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E4",
+      "title": "“A Different Approach”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 274,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E5",
+      "title": "“The Return”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 275,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E6",
+      "title": "“Infiltration”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 276,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E7",
+      "title": "“Extraction”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 277,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E8",
+      "title": "“Bad Territory”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 278,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E9",
+      "title": "“The Harbinger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 279,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E10",
+      "title": "“Identity Crisis”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 280,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E11",
+      "title": "“Point of No Return”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 281,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E12",
+      "title": "“Juggernaut”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 282,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E13",
+      "title": "“Into the Breach”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 283,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E14",
+      "title": "“Flash Strike”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 284,
+      "era": "Early Empire",
+      "show": "The Bad Batch",
+      "episode": "S3E15",
+      "title": "“The Cavalry Has Arrived”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 285,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E1",
+      "title": "“The Dark Revenge”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 286,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E2",
+      "title": "“Sinister Schemes”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 287,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E3",
+      "title": "“Whispers in the Unknown”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 288,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E4",
+      "title": "“Pride and Vengeance”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 289,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E5",
+      "title": "“Inquisition”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 290,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E6",
+      "title": "“Night of the Hunted”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 291,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E7",
+      "title": "“Call to Oblivion”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 292,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E8",
+      "title": "“The Creeping Fear”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 293,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E9",
+      "title": "“Strange Allies”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 294,
+      "era": "Early Empire",
+      "show": "Maul – Shadow Lord",
+      "episode": "S1E10",
+      "title": "“The Dark Lord”",
+      "instructions": "Set after The Clone Wars during the Reign of the Empire; exact episode-level BBY dates are not officially specified.",
+      "timing": ""
+    },
+    {
+      "position": 295,
+      "era": "Early Empire",
+      "show": "Tales of the Underworld",
+      "episode": "S1E1",
+      "title": "“A Way Forward”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 296,
+      "era": "Early Empire",
+      "show": "Tales of the Underworld",
+      "episode": "S1E2",
+      "title": "“Friends”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 297,
+      "era": "Early Empire",
+      "show": "Tales of the Underworld",
+      "episode": "S1E3",
+      "title": "“One Warrior to Another”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 298,
+      "era": "Early Empire",
+      "show": "Tales of the Underworld",
+      "episode": "S1E4",
+      "title": "“The Good Life”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 299,
+      "era": "Early Empire",
+      "show": "Tales of the Underworld",
+      "episode": "S1E5",
+      "title": "“A Good Turn”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 300,
+      "era": "Early Empire",
+      "show": "Tales of the Underworld",
+      "episode": "S1E6",
+      "title": "“One Good Deed”",
+      "instructions": "Anthology spans different periods; do not force all six episodes into one date.",
+      "timing": ""
+    },
+    {
+      "position": 301,
+      "era": "Early Empire",
+      "show": "Tales of the Jedi",
+      "episode": "S1E6",
+      "title": "“Resolve”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 302,
+      "era": "Early Empire",
+      "show": "Forces of Destiny",
+      "episode": "S2E16",
+      "title": "“Triplecross”",
+      "instructions": "During Solo; watch the whole short.",
+      "timing": ""
+    },
+    {
+      "position": 303,
+      "era": "Dark Times / Rebellion",
+      "show": "Movie",
+      "episode": "",
+      "title": "Solo: A Star Wars Story",
+      "instructions": "Watch the whole movie.",
+      "timing": ""
+    },
+    {
+      "position": 304,
+      "era": "Dark Times / Rebellion",
+      "show": "Obi-Wan Kenobi",
+      "episode": "S1E1",
+      "title": "“Part I”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 305,
+      "era": "Dark Times / Rebellion",
+      "show": "Obi-Wan Kenobi",
+      "episode": "S1E2",
+      "title": "“Part II”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 306,
+      "era": "Dark Times / Rebellion",
+      "show": "Obi-Wan Kenobi",
+      "episode": "S1E3",
+      "title": "“Part III”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 307,
+      "era": "Dark Times / Rebellion",
+      "show": "Obi-Wan Kenobi",
+      "episode": "S1E4",
+      "title": "“Part IV”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 308,
+      "era": "Dark Times / Rebellion",
+      "show": "Obi-Wan Kenobi",
+      "episode": "S1E5",
+      "title": "“Part V”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 309,
+      "era": "Dark Times / Rebellion",
+      "show": "Obi-Wan Kenobi",
+      "episode": "S1E6",
+      "title": "“Part VI”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 310,
+      "era": "Dark Times / Rebellion",
+      "show": "Tales of the Empire",
+      "episode": "S1E2",
+      "title": "“The Path of Anger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 311,
+      "era": "Dark Times / Rebellion",
+      "show": "Tales of the Empire",
+      "episode": "S1E6",
+      "title": "“The Way Out”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 312,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels Short",
+      "episode": "",
+      "title": "“The Machine in the Ghost”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 313,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels Short",
+      "episode": "",
+      "title": "“Art Attack”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 314,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels Short",
+      "episode": "",
+      "title": "“Entanglement”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 315,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels Short",
+      "episode": "",
+      "title": "“Property of Ezra Bridger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 316,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E1",
+      "title": "“Spark of Rebellion: Part 1”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 317,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E2",
+      "title": "“Spark of Rebellion: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 318,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E3",
+      "title": "“Droids in Distress”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 319,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E4",
+      "title": "“Fighter Flight”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 320,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E5",
+      "title": "“Rise of the Old Masters”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 321,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E6",
+      "title": "“Breaking Ranks”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 322,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E7",
+      "title": "“Out of Darkness”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 323,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E8",
+      "title": "“Empire Day”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 324,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E9",
+      "title": "“Gathering Forces”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 325,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E10",
+      "title": "“Path of the Jedi”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 326,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E11",
+      "title": "“Idiot’s Array”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 327,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E12",
+      "title": "“Vision of Hope”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 328,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E13",
+      "title": "“Call to Action”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 329,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E14",
+      "title": "“Rebel Resolve”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 330,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S1E15",
+      "title": "“Fire Across the Galaxy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 331,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S2E15",
+      "title": "“A Disarming Lesson”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 332,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E1",
+      "title": "“Kassa”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 333,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E2",
+      "title": "“That Would Be Me”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 334,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E3",
+      "title": "“Reckoning”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 335,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E4",
+      "title": "“Aldhani”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 336,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E5",
+      "title": "“The Axe Forgets”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 337,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E6",
+      "title": "“The Eye”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 338,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E7",
+      "title": "“Announcement”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 339,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E8",
+      "title": "“Narkina 5”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 340,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E9",
+      "title": "“Nobody’s Listening!”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 341,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E10",
+      "title": "“One Way Out”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 342,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E11",
+      "title": "“Daughter of Ferrix”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 343,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S1E12",
+      "title": "“Rix Road”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 344,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E1",
+      "title": "“The Siege of Lothal”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 345,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E2",
+      "title": "“The Siege of Lothal: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 346,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E3",
+      "title": "“The Lost Commanders”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 347,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E4",
+      "title": "“Relics of the Old Republic”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 348,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E5",
+      "title": "“Always Two There Are”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 349,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E6",
+      "title": "“Brothers of the Broken Horn”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 350,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E7",
+      "title": "“Wings of the Master”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 351,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E8",
+      "title": "“Blood Sisters”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 352,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E9",
+      "title": "“Stealth Strike”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 353,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E10",
+      "title": "“The Future of the Force”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 354,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E11",
+      "title": "“Legacy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 355,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E12",
+      "title": "“A Princess on Lothal”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 356,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E13",
+      "title": "“The Protector of Concord Dawn”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 357,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E14",
+      "title": "“Legends of the Lasat”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 358,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E15",
+      "title": "“The Call”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 359,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E16",
+      "title": "“Homecoming”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 360,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E17",
+      "title": "“The Honorable Ones”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 361,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E18",
+      "title": "“Shroud of Darkness”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 362,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E19",
+      "title": "“The Forgotten Droid”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 363,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E20",
+      "title": "“The Mystery of Chopper Base”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 364,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E21",
+      "title": "“Twilight of the Apprentice: Part 1”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 365,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S2E22",
+      "title": "“Twilight of the Apprentice: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 366,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S1E9",
+      "title": "“Newest Recruit”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 367,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S1E16",
+      "title": "“Crash Course”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 368,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S2E1",
+      "title": "“Hasty Departure”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 369,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E1",
+      "title": "“One Year Later”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 370,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E2",
+      "title": "“Sagrona Teema”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 371,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E3",
+      "title": "“Harvest”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 372,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E4",
+      "title": "“Ever Been to Ghorman?”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 373,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E5",
+      "title": "“I Have Friends Everywhere”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 374,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E6",
+      "title": "“What a Festive Evening”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 375,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E1",
+      "title": "“Steps Into Shadow: Part One”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 376,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E2",
+      "title": "“Steps Into Shadow: Part Two”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 377,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E3",
+      "title": "“The Holocrons of Fate”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 378,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E4",
+      "title": "“The Antilles Extraction”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 379,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E5",
+      "title": "“Hera’s Heroes”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 380,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E6",
+      "title": "“The Last Battle”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 381,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E7",
+      "title": "“Imperial Supercommandos”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 382,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E8",
+      "title": "“Iron Squadron”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 383,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E9",
+      "title": "“The Wynkahthu Job”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 384,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E10",
+      "title": "“An Inside Man”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 385,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E11",
+      "title": "“Visions and Voices”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 386,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E12",
+      "title": "“Ghosts of Geonosis: Part 1”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 387,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E13",
+      "title": "“Ghosts of Geonosis: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 388,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E14",
+      "title": "“Warhead”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 389,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E15",
+      "title": "“Trials of the Darksaber”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 390,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E16",
+      "title": "“Legacy of Mandalore”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 391,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S2E11",
+      "title": "“Art History”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 392,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E17",
+      "title": "“Through Imperial Eyes”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 393,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E7",
+      "title": "“Messenger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 394,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E8",
+      "title": "“Who Are You?”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 395,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E9",
+      "title": "“Welcome to the Rebellion”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 396,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E18",
+      "title": "“Secret Cargo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 397,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E19",
+      "title": "“Double Agent Droid”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 398,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E20",
+      "title": "“Twin Suns”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 399,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E21",
+      "title": "“Zero Hour: Part 1”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 400,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S3E22",
+      "title": "“Zero Hour: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 401,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E1",
+      "title": "“Heroes of Mandalore: Part 1”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 402,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E2",
+      "title": "“Heroes of Mandalore: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 403,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E3",
+      "title": "“In the Name of the Rebellion: Part One”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 404,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E4",
+      "title": "“In the Name of the Rebellion: Part Two”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 405,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E5",
+      "title": "“The Occupation”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 406,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E6",
+      "title": "“Flight of the Defender”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 407,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E7",
+      "title": "“Kindred”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 408,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E8",
+      "title": "“Crawler Commandeers”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 409,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E9",
+      "title": "“Rebel Assault”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 410,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E10",
+      "title": "“Jedi Night”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 411,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E11",
+      "title": "“DUME”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 412,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E12",
+      "title": "“Wolves and a Door”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 413,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E13",
+      "title": "“A World Between Worlds”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 414,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E14",
+      "title": "“A Fool’s Hope”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 415,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E15",
+      "title": "“Family Reunion – and Farewell”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 416,
+      "era": "Dark Times / Rebellion",
+      "show": "Star Wars Rebels",
+      "episode": "S4E16",
+      "title": "“Family Reunion – and Farewell”",
+      "instructions": "See source note for the duplicated finale listing.",
+      "timing": ""
+    },
+    {
+      "position": 417,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E10",
+      "title": "“Make It Stop”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 418,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E11",
+      "title": "“Who Else Knows?”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 419,
+      "era": "Dark Times / Rebellion",
+      "show": "Andor",
+      "episode": "S2E12",
+      "title": "“Jedha, Kyber, Erso”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 420,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S1E7",
+      "title": "“The Stranger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 421,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S1E13",
+      "title": "“Accidental Allies”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 422,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S2E4",
+      "title": "“Jyn’s Trade”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 423,
+      "era": "Dark Times / Rebellion",
+      "show": "Movie",
+      "episode": "",
+      "title": "Rogue One: A Star Wars Story",
+      "instructions": "Watch the whole movie.",
+      "timing": ""
+    },
+    {
+      "position": 424,
+      "era": "Dark Times / Rebellion",
+      "show": "Forces of Destiny",
+      "episode": "S1E8",
+      "title": "“Bounty of Trouble”",
+      "instructions": "Watch the whole short.",
+      "timing": ""
+    },
+    {
+      "position": 425,
+      "era": "Dark Times / Rebellion",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode IV: A New Hope",
+      "instructions": "Watch the whole movie.",
+      "timing": ""
+    },
+    {
+      "position": 426,
+      "era": "Original Trilogy",
+      "show": "Forces of Destiny",
+      "episode": "S1E5",
+      "title": "“Beasts of Echo Base”",
+      "instructions": "Watch whole; 0 ABY.",
+      "timing": ""
+    },
+    {
+      "position": 427,
+      "era": "Original Trilogy",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode V: The Empire Strikes Back",
+      "instructions": "Pause at approximately 1:00:56 during Luke’s Dagobah training.",
+      "timing": ""
+    },
+    {
+      "position": 428,
+      "era": "Original Trilogy",
+      "show": "Forces of Destiny",
+      "episode": "S2E7",
+      "title": "“The Path Ahead”",
+      "instructions": "Watch the whole short.",
+      "timing": ""
+    },
+    {
+      "position": 429,
+      "era": "Original Trilogy",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume The Empire Strikes Back",
+      "instructions": "Resume at approximately 1:00:56. Published cut-by-cut guide: ESB 0:22:30–1:00:56 → The Path Ahead → ESB 1:00:56–2:01:55. Player offsets can vary.",
+      "timing": ""
+    },
+    {
+      "position": 430,
+      "era": "Original Trilogy",
+      "show": "Forces of Destiny",
+      "episode": "S2E6",
+      "title": "“Bounty Hunted”",
+      "instructions": "Watch whole; immediately before Leia’s Boushh infiltration/rescue operation in Return of the Jedi.",
+      "timing": ""
+    },
+    {
+      "position": 431,
+      "era": "Original Trilogy",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode VI: Return of the Jedi",
+      "instructions": "Pause at approximately 1:06:18 around the early Endor/Ewok sequence.",
+      "timing": ""
+    },
+    {
+      "position": 432,
+      "era": "Original Trilogy",
+      "show": "Forces of Destiny",
+      "episode": "S1E3",
+      "title": "“Ewok Escape”",
+      "instructions": "Watch the whole short.",
+      "timing": ""
+    },
+    {
+      "position": 433,
+      "era": "Original Trilogy",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume Return of the Jedi",
+      "instructions": "Resume at approximately 1:06:18.",
+      "timing": ""
+    },
+    {
+      "position": 434,
+      "era": "Original Trilogy",
+      "show": "Forces of Destiny",
+      "episode": "S2E9",
+      "title": "“Chopper and Friends”",
+      "instructions": "Watch whole; 4 ABY.",
+      "timing": ""
+    },
+    {
+      "position": 435,
+      "era": "Original Trilogy",
+      "show": "Forces of Destiny",
+      "episode": "S2E14",
+      "title": "“Traps and Tribulations”",
+      "instructions": "Watch whole; 4 ABY. Exact relative placement less certain.",
+      "timing": ""
+    },
+    {
+      "position": 436,
+      "era": "Original Trilogy",
+      "show": "Forces of Destiny",
+      "episode": "S1E14",
+      "title": "“An Imperial Feast”",
+      "instructions": "Watch whole; Endor celebration.",
+      "timing": ""
+    },
+    {
+      "position": 437,
+      "era": "Original Trilogy",
+      "show": "Tales of the Empire",
+      "episode": "S1E3",
+      "title": "“The Path of Hate”",
+      "instructions": "Watch whole; post-Return of the Jedi, 4 ABY.",
+      "timing": ""
+    },
+    {
+      "position": 438,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E1",
+      "title": "“Chapter 1: The Mandalorian”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 439,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E2",
+      "title": "“Chapter 2: The Child”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 440,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E3",
+      "title": "“Chapter 3: The Sin”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 441,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E4",
+      "title": "“Chapter 4: Sanctuary”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 442,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E5",
+      "title": "“Chapter 5: The Gunslinger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 443,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E6",
+      "title": "“Chapter 6: The Prisoner”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 444,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E7",
+      "title": "“Chapter 7: The Reckoning”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 445,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S1E8",
+      "title": "“Chapter 8: Redemption”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 446,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E1",
+      "title": "“Chapter 9: The Marshal”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 447,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E2",
+      "title": "“Chapter 10: The Passenger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 448,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E3",
+      "title": "“Chapter 11: The Heiress”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 449,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E4",
+      "title": "“Chapter 12: The Siege”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 450,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E5",
+      "title": "“Chapter 13: The Jedi”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 451,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E6",
+      "title": "“Chapter 14: The Tragedy”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 452,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E7",
+      "title": "“Chapter 15: The Believer”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 453,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S2E8",
+      "title": "“Chapter 16: The Rescue”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 454,
+      "era": "New Republic",
+      "show": "The Book of Boba Fett",
+      "episode": "S1E1",
+      "title": "“Chapter 1: Stranger in a Strange Land”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 455,
+      "era": "New Republic",
+      "show": "The Book of Boba Fett",
+      "episode": "S1E2",
+      "title": "“Chapter 2: The Tribes of Tatooine”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 456,
+      "era": "New Republic",
+      "show": "The Book of Boba Fett",
+      "episode": "S1E3",
+      "title": "“Chapter 3: The Streets of Mos Espa”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 457,
+      "era": "New Republic",
+      "show": "The Book of Boba Fett",
+      "episode": "S1E4",
+      "title": "“Chapter 4: The Gathering Storm”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 458,
+      "era": "New Republic",
+      "show": "The Book of Boba Fett",
+      "episode": "S1E5",
+      "title": "“Chapter 5: Return of the Mandalorian”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 459,
+      "era": "New Republic",
+      "show": "The Book of Boba Fett",
+      "episode": "S1E6",
+      "title": "“Chapter 6: From the Desert Comes a Stranger”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 460,
+      "era": "New Republic",
+      "show": "The Book of Boba Fett",
+      "episode": "S1E7",
+      "title": "“Chapter 7: In the Name of Honor”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 461,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E1",
+      "title": "“Chapter 17: The Apostate”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 462,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E2",
+      "title": "“Chapter 18: The Mines of Mandalore”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 463,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E3",
+      "title": "“Chapter 19: The Convert”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 464,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E4",
+      "title": "“Chapter 20: The Foundling”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 465,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E5",
+      "title": "“Chapter 21: The Pirate”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 466,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E6",
+      "title": "“Chapter 22: Guns for Hire”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 467,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E7",
+      "title": "“Chapter 23: The Spies”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 468,
+      "era": "New Republic",
+      "show": "The Mandalorian",
+      "episode": "S3E8",
+      "title": "“Chapter 24: The Return”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 469,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E1",
+      "title": "“Part One: Master and Apprentice”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 470,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E2",
+      "title": "“Part Two: Toil and Trouble”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 471,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E3",
+      "title": "“Part Three: Time to Fly”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 472,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E4",
+      "title": "“Part Four: Fallen Jedi”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 473,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E5",
+      "title": "“Part Five: Shadow Warrior”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 474,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E6",
+      "title": "“Part Six: Far, Far Away”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 475,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E7",
+      "title": "“Part Seven: Dreams and Madness”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 476,
+      "era": "New Republic",
+      "show": "Ahsoka",
+      "episode": "S1E8",
+      "title": "“Part Eight: The Jedi, the Witch, and the Warlord”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 477,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E1",
+      "title": "“This Could Be a Real Adventure”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 478,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E2",
+      "title": "“Way, Way Out Past the Barrier”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 479,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E3",
+      "title": "“Very Interesting, as an Astrogation Problem”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 480,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E4",
+      "title": "“Can’t Say I Remember No At Attin”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 481,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E5",
+      "title": "“You Have a Lot to Learn About Pirates”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 482,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E6",
+      "title": "“Zero Friends Again”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 483,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E7",
+      "title": "“We’re Gonna Be in So Much Trouble”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 484,
+      "era": "New Republic",
+      "show": "Skeleton Crew",
+      "episode": "S1E8",
+      "title": "“The Real Good Guys”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 485,
+      "era": "New Republic",
+      "show": "Movie",
+      "episode": "",
+      "title": "The Mandalorian and Grogu",
+      "instructions": "Watch the whole film. Current canon places it in the New Republic era.",
+      "timing": ""
+    },
+    {
+      "position": 486,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E1",
+      "title": "“The Recruit”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 487,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E2",
+      "title": "“The Triple Dark”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 488,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E3",
+      "title": "“Fuel for the Fire”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 489,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E4",
+      "title": "“The High Tower”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 490,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E5",
+      "title": "“The Children from Tehar”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 491,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E6",
+      "title": "“Signal from Sector Six”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 492,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E7",
+      "title": "“Synara’s Score”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 493,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E8",
+      "title": "“The Platform Classic”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 494,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E9",
+      "title": "“Secrets and Holograms”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 495,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E10",
+      "title": "“Station Theta Black”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 496,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E11",
+      "title": "“Bibo”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 497,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E12",
+      "title": "“Dangerous Business”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 498,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E13",
+      "title": "“The Doza Dilemma”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 499,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E14",
+      "title": "“The First Order Occupation”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 500,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E15",
+      "title": "“The New Trooper”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 501,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E16",
+      "title": "“The Core Problem”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 502,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E17",
+      "title": "“The Disappeared”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 503,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E18",
+      "title": "“Descent”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 504,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E19",
+      "title": "“No Escape: Part 1”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 505,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E20",
+      "title": "“No Escape: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 506,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E1",
+      "title": "“Into the Unknown”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 507,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E2",
+      "title": "“A Quick Salvage Run”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 508,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E3",
+      "title": "“Live Fire”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 509,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E4",
+      "title": "“Hunt on Celsor 3”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 510,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E5",
+      "title": "“The Engineer”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 511,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E6",
+      "title": "“From Beneath”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 512,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E7",
+      "title": "“The Relic Raiders”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 513,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E8",
+      "title": "“Rendezvous Point”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 514,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E9",
+      "title": "“The Voxx Vortex 5000”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 515,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E10",
+      "title": "“Kaz’s Curse”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 516,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E11",
+      "title": "“Station to Station”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 517,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E12",
+      "title": "“The Missing Agent”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 518,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E13",
+      "title": "“Breakout”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 519,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E14",
+      "title": "“The Mutiny”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 520,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E15",
+      "title": "“The New World”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 521,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E16",
+      "title": "“No Place Safe”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 522,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E17",
+      "title": "“Rebuilding the Resistance”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 523,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E18",
+      "title": "“The Escape: Part 1”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 524,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E19",
+      "title": "“The Escape: Part 2”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 525,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S1E15",
+      "title": "“The Happabore Hazard”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 526,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S2E5",
+      "title": "“Run Rey Run”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 527,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode VII: The Force Awakens",
+      "instructions": "Pause after Rey meets BB-8.",
+      "timing": ""
+    },
+    {
+      "position": 528,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S1E1",
+      "title": "“Sands of Jakku”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 529,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S1E2",
+      "title": "“BB-8 Bandits”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 530,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume The Force Awakens",
+      "instructions": "Resume after Sands of Jakku and BB-8 Bandits; this is around the early Jakku sequence.",
+      "timing": ""
+    },
+    {
+      "position": 531,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode VII: The Force Awakens",
+      "instructions": "Pause after the Falcon escapes Jakku.",
+      "timing": ""
+    },
+    {
+      "position": 532,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S1E10",
+      "title": "“Tracker Trouble”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 533,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume The Force Awakens",
+      "instructions": "Resume after Tracker Trouble.",
+      "timing": ""
+    },
+    {
+      "position": 534,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode VII: The Force Awakens",
+      "instructions": "Pause during the Starkiller Base battle.",
+      "timing": ""
+    },
+    {
+      "position": 535,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S2E13",
+      "title": "“Perilous Pursuit”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 536,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume The Force Awakens",
+      "instructions": "Resume after Perilous Pursuit.",
+      "timing": ""
+    },
+    {
+      "position": 537,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode VIII: The Last Jedi",
+      "instructions": "Pause during Rey’s training on Ahch-To.",
+      "timing": ""
+    },
+    {
+      "position": 538,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S2E8",
+      "title": "“Porg Problems”",
+      "instructions": "Previously watched early, but intentionally left UNMARKED in Star Path per viewer preference.",
+      "timing": ""
+    },
+    {
+      "position": 539,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S2E12",
+      "title": "“Porgs!”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 540,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume The Last Jedi",
+      "instructions": "Approximate guide: TLJ 0:44:28–0:54:03 → Shuttle Shock → TLJ 0:54:04–0:57:37 → Porg Problems + Porgs! → TLJ 0:57:38–1:24:15. Use scene cues over exact player timestamps.",
+      "timing": ""
+    },
+    {
+      "position": 541,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode VIII: The Last Jedi",
+      "instructions": "Pause when Finn and Rose depart for Canto Bight.",
+      "timing": ""
+    },
+    {
+      "position": 542,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S2E3",
+      "title": "“Shuttle Shock”",
+      "instructions": "",
+      "timing": ""
+    },
+    {
+      "position": 543,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume The Last Jedi",
+      "instructions": "Resume after Shuttle Shock.",
+      "timing": ""
+    },
+    {
+      "position": 544,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode VIII: The Last Jedi",
+      "instructions": "Pause while the Falcon is on Ahch-To.",
+      "timing": ""
+    },
+    {
+      "position": 545,
+      "era": "Sequel Era / Resistance",
+      "show": "Forces of Destiny",
+      "episode": "S2E12",
+      "title": "“Porgs!”",
+      "instructions": "Alternate scene-level cut.",
+      "timing": ""
+    },
+    {
+      "position": 546,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Resume The Last Jedi",
+      "instructions": "Resume after Porgs!.",
+      "timing": ""
+    },
+    {
+      "position": 547,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "Episode IX: The Rise of Skywalker",
+      "instructions": "Watch the whole movie.",
+      "timing": ""
+    }
+  ],
+  "addedBlocks": [
+    {
+      "show": "Fun with Nubs",
+      "positions": "1–20",
+      "placement": "High Republic / Young Jedi Adventures era",
+      "note": "Grouped as a block; no unsupported fine-grained interleave asserted."
+    }
+  ]
+}
