@@ -74,12 +74,24 @@ function absoluteWatchedCount(){
   }
   return state.items.filter(x=>state.watched.has(keyFor(x))).length;
 }
+// Bundled chronology metadata is additive: preserve user-imported titles, watch state and progress.
+const chronologyEraDates = [
+  [83,"c. 233–232 BBY"],[235,"Prequel era · c. 40–19 BBY"],
+  [302,"Early Empire · c. 19–10 BBY"],[425,"Rebellion era · c. 13–1 BBY"],
+  [437,"Original trilogy · c. 3–4 ABY"],[484,"New Republic · c. 9 ABY"],
+  [485,"New Republic · after c. 9 ABY"],[Infinity,"Sequel era · c. 34–35 ABY"]
+];
+function estimatedChronology(item){
+  const p=Number(item.position);
+  if(!Number.isFinite(p))return "";
+  return chronologyEraDates.find(([end])=>p<=end)?.[1]||"";
+}
 function render(){
   const item=state.items[state.index];
   if(!item) return;
   const watched=state.watched.has(keyFor(item));
   $("#eraBadge").textContent=item.era||"Chronology";
-  $("#timing").textContent=item.timing||"";
+  $("#timing").textContent=item.timing||estimatedChronology(item);
   $("#position").textContent=`Item ${item.position||state.index+1} of ${masterTotal()}`;
   $("#show").textContent=item.show||"Star Wars";
   $("#episode").textContent=item.episode||"";
@@ -118,14 +130,14 @@ function renderTimeline(filter=""){
   const q=filter.trim().toLowerCase();
   const list=$("#timelineList"); list.innerHTML="";
   state.items.forEach((item,i)=>{
-    const blob=[item.show,item.episode,item.title,item.era,item.timing].join(" ").toLowerCase();
+    const blob=[item.show,item.episode,item.title,item.era,item.timing||estimatedChronology(item)].join(" ").toLowerCase();
     if(q && !blob.includes(q)) return;
     const b=document.createElement("button");
     b.className="timeline-item"+(i===state.index?" current":"");
     const done=state.watched.has(keyFor(item));
     b.innerHTML=`<span class="timeline-number">${esc(item.position||i+1)}</span>
       <span><div class="timeline-title">${esc(item.show)}${item.episode?` · ${esc(item.episode)}`:""}</div>
-      <div class="timeline-meta">${esc(item.title||"")}</div></span>
+      <div class="timeline-meta">${esc(item.title||"")}</div><div class="timeline-meta">${esc(item.timing||estimatedChronology(item))}</div></span>
       <span class="timeline-check">${done?"✓":""}</span>`;
     b.onclick=()=>{ $("#timelineDialog").close(); go(i); };
     list.appendChild(b);
