@@ -35,3 +35,13 @@ Do not auto-skip it and do not pre-check it.
 - Use scene cues over invented exact timestamps.
 - Full-episode flashbacks remain one episode unless the whole episode belongs earlier.
 - Timestamp surgery only when warranted by reliable chronology.
+
+## MCU branch (2026-10-17)
+- `marvel.html` / `marvel-list.json` in the same repo and static Pages site.
+- 382 progress stops: 38 films, 336 individual TV episodes, 5 Marvel One-Shots, 3 specials; 84 chronology blocks.
+- Separate MCU browser storage namespace `starpath.marvel.*.v1`; original Star Wars `starpath.*.v3` unchanged.
+- Original Star Wars `starwars-list.json`, 547 entries, current 464, Fun with Nubs backlog, and Porg Problems stay unchanged.
+- Chronology is generally season-by-season; no arbitrary episode interleaving. Alternate reality stories are viewing-order suggestions.
+- Agent Carter and Defenders-era shows are included. Agents of SHIELD and other debated/alternate Marvel television productions are not automatically mixed into the main timeline.
+- VisionQuest episodes 3–8 carry future release dates and cannot be marked watched before then.
+- Next: update catalog as future MCU screen projects release, verifying placements and episode titles.
