@@ -31,3 +31,14 @@ Use scene cues rather than inventing exact timestamps. Runtime offsets are guida
 
 ## Hosting
 Static app. No build step and no paid service required.
+
+## Marvel Cinematic Universe branch (added 2026-10-17)
+- Use the **Star Wars / Marvel MCU** selector at the top of the site. Direct Marvel URL: `/marvel.html`.
+- Bundled `marvel-list.json` contains **382 individual watch items** from **84 chronological movie/season/special blocks**: 38 films, 336 TV episodes, five One-Shots, and three specials.
+- Includes Disney+ originals, Defenders shows, Agent Carter, multiverse/animated stories, and current releases through `VisionQuest` and `Spider-Man: Brand New Day`.
+- TV shows advance one episode at a time; the canonical **ordering is season-level** unless placement is independently established. Episode names are generic when not verified, rather than invented.
+- Built using the Marvel/Disney+ Complete MCU Timeline and current Rotten Tomatoes chronology with editorial additions such as `Spider-Man: No Way Home`.
+- Multiverse projects are **viewing-order placements**, not assertions of same-universe dates.
+- `VisionQuest` future episodes have release dates and cannot be marked watched early.
+- **Progress stays independent:** Star Wars retains all `starpath.*.v3` browser keys and its 547-item bundled master; MCU uses separate `starpath.marvel.*.v1` browser keys. Neither path resets or imports over the other.
+- Still static GitHub Pages with no build step or paid services. PWA caches both pages and catalogs.
