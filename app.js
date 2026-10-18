@@ -1,9 +1,10 @@
 
+const IS_MARVEL = document.documentElement.dataset.universe === "marvel";
 const STORAGE = {
-  data: "starpath.timeline.v3",
-  watched: "starpath.watched.v3",
-  current: "starpath.current.v3",
-  initialized: "starpath.initialized.v3"
+  data: IS_MARVEL ? "starpath.marvel.timeline.v1" : "starpath.timeline.v3",
+  watched: IS_MARVEL ? "starpath.marvel.watched.v1" : "starpath.watched.v3",
+  current: IS_MARVEL ? "starpath.marvel.current.v1" : "starpath.current.v3",
+  initialized: IS_MARVEL ? "starpath.marvel.initialized.v1" : "starpath.initialized.v3"
 };
 
 const $ = s => document.querySelector(s);
@@ -82,6 +83,7 @@ const chronologyEraDates = [
   [485,"New Republic · after c. 9 ABY"],[Infinity,"Sequel era · c. 34–35 ABY"]
 ];
 function estimatedChronology(item){
+  if(IS_MARVEL) return "";
   const p=Number(item.position);
   if(!Number.isFinite(p))return "";
   return chronologyEraDates.find(([end])=>p<=end)?.[1]||"";
@@ -90,7 +92,7 @@ function render(){
   const item=state.items[state.index];
   if(!item) return;
   const watched=state.watched.has(keyFor(item));
-  $("#eraBadge").textContent=item.era||"Chronology";
+  $("#eraBadge").textContent=(IS_MARVEL && item.type ? item.type+" · " : "")+(item.era||"Chronology");
   $("#timing").textContent=item.timing||estimatedChronology(item);
   $("#position").textContent=`Item ${item.position||state.index+1} of ${masterTotal()}`;
   $("#show").textContent=item.show||"Star Wars";
@@ -101,7 +103,9 @@ function render(){
     $("#instructionBox").classList.remove("hidden");
   } else $("#instructionBox").classList.add("hidden");
   $("#watchedStamp").classList.toggle("hidden",!watched);
-  $("#watchedBtn").textContent=watched?"↶ Mark unwatched":"✓ Watched";
+  const upcoming=IS_MARVEL && item.releaseDate && new Date(item.releaseDate+"T00:00:00-04:00") > new Date();
+  $("#watchedBtn").disabled=!!upcoming;
+  $("#watchedBtn").textContent=upcoming?"⏳ Upcoming":watched?"↶ Mark unwatched":"✓ Watched";
   $("#prevBtn").disabled=state.index===0;
   $("#nextBtn").disabled=state.index===state.items.length-1;
   const wc=absoluteWatchedCount();
@@ -109,7 +113,7 @@ function render(){
   $("#loadedText").textContent=state.items.length===masterTotal()?"Full master loaded":`${state.items.length} loaded`;
   $("#progressBar").style.width=`${Math.min(100,(wc/masterTotal())*100)}%`;
   $("#sliceNote").textContent=state.items.length===masterTotal()
-    ?"Full chronology loaded. Progress is saved on this device."
+    ?(IS_MARVEL?"MCU progress stays separate from Star Wars. Saved on this device.":"Full chronology loaded. Progress is saved on this device.")
     : `Verified current slice loaded (${state.items[0]?.position||"?"}–${state.items.at(-1)?.position||"?"}). Import the corrected master list once to unlock the full timeline.`;
   save();
 }
@@ -121,6 +125,7 @@ function nextUnwatched(){
 }
 function toggleWatched(){
   const item=state.items[state.index], k=keyFor(item);
+  if(IS_MARVEL && item.releaseDate && new Date(item.releaseDate+"T00:00:00-04:00")>new Date()) return;
   if(state.watched.has(k)){ state.watched.delete(k); render(); toast("Marked unwatched"); return; }
   state.watched.add(k);
   if(state.index<state.items.length-1){ state.index++; render(); toast("Watched ✓"); }
@@ -197,14 +202,16 @@ function normalizeImported(data){
     episode:x.episode||"",
     title:x.title||x.name||x.raw||"",
     instructions:x.instructions||x.note||"",
-    timing:x.timing||x.date||""
+    timing:x.timing||x.date||"",
+    type:x.type||"",
+    releaseDate:x.releaseDate||""
   }));
   return {
-    name:data.name||"Julie’s Star Wars Chronological Watch",
+    name:data.name||(IS_MARVEL?"MCU Chronological Watch":"Julie’s Star Wars Chronological Watch"),
     version:1,
     masterTotal:items.length,
     sourceNote:"Imported master chronology",
-    currentMatch:state.data?.currentMatch||{show:"The Mandalorian",episode:"S3E4",title:"The Foundling"},
+    currentMatch:IS_MARVEL?null:(state.data?.currentMatch||{show:"The Mandalorian",episode:"S3E4",title:"The Foundling"}),
     preWatchedTitles:[],
     initialWatchedThrough:state.data?.initialWatchedThrough||0,
     currentPosition:state.data?.currentPosition||null,
@@ -224,7 +231,7 @@ async function importFile(file){
     installData(JSON.parse(text));
   }else{
     const items=parseMasterText(text);
-    installData({items,name:"Julie’s Star Wars Chronological Watch"});
+    installData({items,name:IS_MARVEL?"MCU Chronological Watch":"Julie’s Star Wars Chronological Watch"});
   }
 }
 function exportProgress(){
@@ -246,11 +253,11 @@ async function init(){
   let data=null;
   try{ data=JSON.parse(localStorage.getItem(STORAGE.data)||"null"); }catch{}
   if(!data){
-    try{ data=await (await fetch("starwars-list.json")).json(); }
+    try{ data=await (await fetch(IS_MARVEL?"marvel-list.json":"starwars-list.json")).json(); }
     catch{ data=null; }
   }
   if(!data || !Array.isArray(data.items)){
-    document.body.innerHTML = '<main class="app-shell"><section class="watch-card"><div><div class="eyebrow">STAR PATH</div><h2>Timeline could not load</h2><p style="color:#b7b3ca;line-height:1.5">Open Star Path from its hosted site so <code>starwars-list.json</code> can load.</p></div></section></main>';
+    document.body.innerHTML = '<main class="app-shell"><section class="watch-card"><div><div class="eyebrow">STAR PATH</div><h2>Timeline could not load</h2><p style="color:#b7b3ca;line-height:1.5">Open Star Path from its hosted site so the chronology file can load.</p></div></section></main>';
     return;
   }
   state.data=data; state.items=data.items||[]; applyInitialState(); state.index=findCurrentIndex(); render();
@@ -269,7 +276,7 @@ async function init(){
   $("#pasteBtn").onclick=()=>{ $("#toolsDialog").close(); $("#pasteDialog").showModal(); };
   $("#parsePasteBtn").onclick=()=>{ try{ const items=parseMasterText($("#pasteArea").value); if(!items.length)throw new Error("No numbered items found"); installData({items}); $("#pasteDialog").close(); }catch(err){ toast(err.message); } };
   $("#exportBtn").onclick=exportProgress;
-  $("#resetBtn").onclick=()=>{ if(confirm("Clear watched progress and return to The Foundling?")){ state.watched=new Set(); localStorage.removeItem(STORAGE.current); localStorage.removeItem(STORAGE.initialized); applyInitialState(); state.index=findCurrentIndex(); render(); toast("Progress reset"); } };
+  $("#resetBtn").onclick=()=>{ if(confirm(IS_MARVEL?"Clear Marvel watched progress and return to the beginning?":"Clear watched progress and return to The Foundling?")){ state.watched=new Set(); localStorage.removeItem(STORAGE.current); localStorage.removeItem(STORAGE.initialized); applyInitialState(); state.index=findCurrentIndex(); render(); toast("Progress reset"); } };
   document.querySelectorAll("dialog").forEach(d=>d.addEventListener("click",e=>{ if(e.target===d)d.close(); }));
   if("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(()=>{});
 }
