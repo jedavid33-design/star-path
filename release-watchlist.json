@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "purpose": "Confirmed future U.S. streaming releases to add to Star Path only after verified availability.",
+  "asOf": "2026-10-17",
+  "policy": {
+    "addOnlyWhenStreaming": "Do not add watch entries before the content is available on a legal U.S. streaming service.",
+    "filmRule": "Theatrical-only releases stay pending until a verified streaming date.",
+    "episodeRule": "For weekly series, add only episodes verified available; do not create unwatched placeholders for unreleased episodes.",
+    "preserveProgress": "Keep Star Wars and MCU tracked separately and preserve watched/current state.",
+    "notifications": "Notify user only when new watch entries are successfully deployed to Star Path."
+  },
+  "pending": [
+    {
+      "id": "starwars-ahsoka-s2",
+      "franchise": "starwars",
+      "title": "Ahsoka",
+      "season": 2,
+      "premiereDate": "2027-01-20",
+      "platform": "Disney+",
+      "region": "US",
+      "releasePattern": "Unconfirmed; verify first-episode availability and subsequent episode dates individually.",
+      "status": "scheduled",
+      "officialSource": "https://www.starwars.com/news/ahsoka-season-2",
+      "placementHint": "After Ahsoka S1, pending verification against intervening New Republic chronology.",
+      "notes": "Lucasfilm confirmed the premiere date; do not add show episodes until actually streamable."
+    }
+  ],
+  "lastAdded": []
+}
