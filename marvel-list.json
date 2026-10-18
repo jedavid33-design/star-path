@@ -59,9 +59,9 @@
     {
       "position": 5,
       "era": "Origins & history",
-      "show": "Marvel Studios",
+      "show": "Captain America: The First Avenger",
       "episode": "",
-      "title": "Captain America: The First Avenger",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -69,9 +69,9 @@
     {
       "position": 6,
       "era": "Origins & history",
-      "show": "Marvel One-Shot",
+      "show": "Agent Carter (One-Shot)",
       "episode": "",
-      "title": "Agent Carter (One-Shot)",
+      "title": "",
       "type": "One-Shot",
       "timing": "",
       "instructions": ""
@@ -259,9 +259,9 @@
     {
       "position": 25,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Captain Marvel",
       "episode": "",
-      "title": "Captain Marvel",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -269,9 +269,9 @@
     {
       "position": 26,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Iron Man",
       "episode": "",
-      "title": "Iron Man",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -279,9 +279,9 @@
     {
       "position": 27,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Iron Man 2",
       "episode": "",
-      "title": "Iron Man 2",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -289,9 +289,9 @@
     {
       "position": 28,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "The Incredible Hulk",
       "episode": "",
-      "title": "The Incredible Hulk",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -299,9 +299,9 @@
     {
       "position": 29,
       "era": "The Avengers Assemble",
-      "show": "Marvel One-Shot",
+      "show": "A Funny Thing Happened on the Way to Thor's Hammer",
       "episode": "",
-      "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+      "title": "",
       "type": "One-Shot",
       "timing": "",
       "instructions": ""
@@ -309,9 +309,9 @@
     {
       "position": 30,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Thor",
       "episode": "",
-      "title": "Thor",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -319,9 +319,9 @@
     {
       "position": 31,
       "era": "The Avengers Assemble",
-      "show": "Marvel One-Shot",
+      "show": "The Consultant",
       "episode": "",
-      "title": "The Consultant",
+      "title": "",
       "type": "One-Shot",
       "timing": "",
       "instructions": ""
@@ -329,9 +329,9 @@
     {
       "position": 32,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "The Avengers",
       "episode": "",
-      "title": "The Avengers",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -339,9 +339,9 @@
     {
       "position": 33,
       "era": "The Avengers Assemble",
-      "show": "Marvel One-Shot",
+      "show": "Item 47",
       "episode": "",
-      "title": "Item 47",
+      "title": "",
       "type": "One-Shot",
       "timing": "",
       "instructions": ""
@@ -349,9 +349,9 @@
     {
       "position": 34,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Thor: The Dark World",
       "episode": "",
-      "title": "Thor: The Dark World",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -359,9 +359,9 @@
     {
       "position": 35,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Iron Man 3",
       "episode": "",
-      "title": "Iron Man 3",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -369,9 +369,9 @@
     {
       "position": 36,
       "era": "The Avengers Assemble",
-      "show": "Marvel One-Shot",
+      "show": "All Hail the King",
       "episode": "",
-      "title": "All Hail the King",
+      "title": "",
       "type": "One-Shot",
       "timing": "",
       "instructions": ""
@@ -379,9 +379,9 @@
     {
       "position": 37,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Captain America: The Winter Soldier",
       "episode": "",
-      "title": "Captain America: The Winter Soldier",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -389,9 +389,9 @@
     {
       "position": 38,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Guardians of the Galaxy",
       "episode": "",
-      "title": "Guardians of the Galaxy",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -399,9 +399,9 @@
     {
       "position": 39,
       "era": "The Avengers Assemble",
-      "show": "Marvel Studios",
+      "show": "Guardians of the Galaxy Vol. 2",
       "episode": "",
-      "title": "Guardians of the Galaxy Vol. 2",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -769,9 +769,9 @@
     {
       "position": 76,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Avengers: Age of Ultron",
       "episode": "",
-      "title": "Avengers: Age of Ultron",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -779,9 +779,9 @@
     {
       "position": 77,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Ant-Man",
       "episode": "",
-      "title": "Ant-Man",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -1259,9 +1259,9 @@
     {
       "position": 125,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Captain America: Civil War",
       "episode": "",
-      "title": "Captain America: Civil War",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -1269,9 +1269,9 @@
     {
       "position": 126,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Black Widow",
       "episode": "",
-      "title": "Black Widow",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -1279,9 +1279,9 @@
     {
       "position": 127,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Black Panther",
       "episode": "",
-      "title": "Black Panther",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -1289,9 +1289,9 @@
     {
       "position": 128,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Spider-Man: Homecoming",
       "episode": "",
-      "title": "Spider-Man: Homecoming",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -1429,9 +1429,9 @@
     {
       "position": 142,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Doctor Strange",
       "episode": "",
-      "title": "Doctor Strange",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -1929,9 +1929,9 @@
     {
       "position": 192,
       "era": "Heroes & Defenders",
-      "show": "Marvel Studios",
+      "show": "Thor: Ragnarok",
       "episode": "",
-      "title": "Thor: Ragnarok",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2199,9 +2199,9 @@
     {
       "position": 219,
       "era": "Infinity Saga",
-      "show": "Marvel Studios",
+      "show": "Ant-Man and the Wasp",
       "episode": "",
-      "title": "Ant-Man and the Wasp",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2209,9 +2209,9 @@
     {
       "position": 220,
       "era": "Infinity Saga",
-      "show": "Marvel Studios",
+      "show": "Avengers: Infinity War",
       "episode": "",
-      "title": "Avengers: Infinity War",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2219,9 +2219,9 @@
     {
       "position": 221,
       "era": "Infinity Saga",
-      "show": "Marvel Studios",
+      "show": "Avengers: Endgame",
       "episode": "",
-      "title": "Avengers: Endgame",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2509,9 +2509,9 @@
     {
       "position": 250,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Shang-Chi and the Legend of the Ten Rings",
       "episode": "",
-      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2579,9 +2579,9 @@
     {
       "position": 257,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Spider-Man: Far From Home",
       "episode": "",
-      "title": "Spider-Man: Far From Home",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2589,9 +2589,9 @@
     {
       "position": 258,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Spider-Man: No Way Home",
       "episode": "",
-      "title": "Spider-Man: No Way Home",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": "Placed immediately after Far From Home for story continuity."
@@ -2599,9 +2599,9 @@
     {
       "position": 259,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Eternals",
       "episode": "",
-      "title": "Eternals",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2609,9 +2609,9 @@
     {
       "position": 260,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Doctor Strange in the Multiverse of Madness",
       "episode": "",
-      "title": "Doctor Strange in the Multiverse of Madness",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2739,9 +2739,9 @@
     {
       "position": 273,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Black Panther: Wakanda Forever",
       "episode": "",
-      "title": "Black Panther: Wakanda Forever",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -2949,9 +2949,9 @@
     {
       "position": 294,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Thor: Love and Thunder",
       "episode": "",
-      "title": "Thor: Love and Thunder",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -3019,9 +3019,9 @@
     {
       "position": 301,
       "era": "Post-Blip & Multiverse",
-      "show": "Marvel Special Presentation",
+      "show": "Werewolf by Night",
       "episode": "",
-      "title": "Werewolf by Night",
+      "title": "",
       "type": "Special",
       "timing": "",
       "instructions": ""
@@ -3029,9 +3029,9 @@
     {
       "position": 302,
       "era": "New World & Multiverse",
-      "show": "Marvel Special Presentation",
+      "show": "The Guardians of the Galaxy Holiday Special",
       "episode": "",
-      "title": "The Guardians of the Galaxy Holiday Special",
+      "title": "",
       "type": "Special",
       "timing": "",
       "instructions": ""
@@ -3039,9 +3039,9 @@
     {
       "position": 303,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Ant-Man and the Wasp: Quantumania",
       "episode": "",
-      "title": "Ant-Man and the Wasp: Quantumania",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -3049,9 +3049,9 @@
     {
       "position": 304,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Guardians of the Galaxy Vol. 3",
       "episode": "",
-      "title": "Guardians of the Galaxy Vol. 3",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -3119,9 +3119,9 @@
     {
       "position": 311,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "The Marvels",
       "episode": "",
-      "title": "The Marvels",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -3279,9 +3279,9 @@
     {
       "position": 327,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Deadpool & Wolverine",
       "episode": "",
-      "title": "Deadpool & Wolverine",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
@@ -3549,9 +3549,9 @@
     {
       "position": 354,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Captain America: Brave New World",
       "episode": "",
-      "title": "Captain America: Brave New World",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -3559,9 +3559,9 @@
     {
       "position": 355,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Thunderbolts*",
       "episode": "",
-      "title": "Thunderbolts*",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
@@ -3569,9 +3569,9 @@
     {
       "position": 356,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "The Fantastic Four: First Steps",
       "episode": "",
-      "title": "The Fantastic Four: First Steps",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
@@ -3659,9 +3659,9 @@
     {
       "position": 365,
       "era": "New World & Multiverse",
-      "show": "Marvel Special Presentation",
+      "show": "The Punisher: One Last Kill",
       "episode": "",
-      "title": "The Punisher: One Last Kill",
+      "title": "",
       "type": "Special",
       "timing": "",
       "instructions": ""
@@ -3774,7 +3774,7 @@
       "title": "Episode 3",
       "type": "TV",
       "timing": "",
-      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+      "instructions": "Upcoming episode: check the Disney+ release schedule before watching."
     },
     {
       "position": 377,
@@ -3784,7 +3784,7 @@
       "title": "Episode 4",
       "type": "TV",
       "timing": "",
-      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+      "instructions": "Upcoming episode: check the Disney+ release schedule before watching."
     },
     {
       "position": 378,
@@ -3794,7 +3794,7 @@
       "title": "Episode 5",
       "type": "TV",
       "timing": "",
-      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+      "instructions": "Upcoming episode: check the Disney+ release schedule before watching."
     },
     {
       "position": 379,
@@ -3804,7 +3804,7 @@
       "title": "Episode 6",
       "type": "TV",
       "timing": "",
-      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+      "instructions": "Upcoming episode: check the Disney+ release schedule before watching."
     },
     {
       "position": 380,
@@ -3814,7 +3814,7 @@
       "title": "Episode 7",
       "type": "TV",
       "timing": "",
-      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+      "instructions": "Upcoming episode: check the Disney+ release schedule before watching."
     },
     {
       "position": 381,
@@ -3824,14 +3824,14 @@
       "title": "Episode 8",
       "type": "TV",
       "timing": "",
-      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+      "instructions": "Upcoming episode: check the Disney+ release schedule before watching."
     },
     {
       "position": 382,
       "era": "New World & Multiverse",
-      "show": "Marvel Studios",
+      "show": "Spider-Man: Brand New Day",
       "episode": "",
-      "title": "Spider-Man: Brand New Day",
+      "title": "",
       "type": "Film",
       "timing": "",
       "instructions": ""
