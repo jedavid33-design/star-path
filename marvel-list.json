@@ -1,0 +1,3840 @@
+{
+  "name": "Marvel Cinematic Universe • Chronological Watch",
+  "version": 1,
+  "sourceVersion": "2026-10-17 • Marvel/Disney+ chronology with editorial inclusions",
+  "masterTotal": 382,
+  "initialWatchedThrough": 0,
+  "currentPosition": 1,
+  "preWatchedTitles": [],
+  "backlogPositions": [],
+  "specialUnmarkedPositions": [],
+  "rules": {
+    "officialTitleOrder": true,
+    "episodesGroupedBySeason": true,
+    "interleavingOnlyIfVerified": true,
+    "alternateRealitiesNotSingleTimeline": true
+  },
+  "sourceNote": "Based on Marvel’s Complete MCU Timeline, with Agent Carter, Spider-Man: No Way Home, and newer 2026 releases included. Episode names shown as episode numbers unless independently confirmed.",
+  "items": [
+    {
+      "position": 1,
+      "era": "Origins & history",
+      "show": "Eyes of Wakanda",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Anthology spanning different historical periods; placed first by Marvel’s timeline."
+    },
+    {
+      "position": 2,
+      "era": "Origins & history",
+      "show": "Eyes of Wakanda",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 3,
+      "era": "Origins & history",
+      "show": "Eyes of Wakanda",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 4,
+      "era": "Origins & history",
+      "show": "Eyes of Wakanda",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 5,
+      "era": "Origins & history",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Captain America: The First Avenger",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 6,
+      "era": "Origins & history",
+      "show": "Marvel One-Shot",
+      "episode": "",
+      "title": "Agent Carter (One-Shot)",
+      "type": "One-Shot",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 7,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Legacy Marvel Television companion series; broad postwar placement."
+    },
+    {
+      "position": 8,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 9,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 10,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 11,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 12,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 13,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 14,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 15,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Legacy Marvel Television companion series; broad postwar placement."
+    },
+    {
+      "position": 16,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 17,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 18,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 19,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 20,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 21,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 22,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 23,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 24,
+      "era": "Origins & history",
+      "show": "Agent Carter",
+      "episode": "S2E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 25,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Captain Marvel",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 26,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Iron Man",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 27,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Iron Man 2",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 28,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "The Incredible Hulk",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 29,
+      "era": "The Avengers Assemble",
+      "show": "Marvel One-Shot",
+      "episode": "",
+      "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+      "type": "One-Shot",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 30,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Thor",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 31,
+      "era": "The Avengers Assemble",
+      "show": "Marvel One-Shot",
+      "episode": "",
+      "title": "The Consultant",
+      "type": "One-Shot",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 32,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "The Avengers",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 33,
+      "era": "The Avengers Assemble",
+      "show": "Marvel One-Shot",
+      "episode": "",
+      "title": "Item 47",
+      "type": "One-Shot",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 34,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Thor: The Dark World",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 35,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Iron Man 3",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 36,
+      "era": "The Avengers Assemble",
+      "show": "Marvel One-Shot",
+      "episode": "",
+      "title": "All Hail the King",
+      "type": "One-Shot",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 37,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Captain America: The Winter Soldier",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 38,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Guardians of the Galaxy",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 39,
+      "era": "The Avengers Assemble",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 40,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 41,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 42,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 43,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 44,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 45,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 46,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 47,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 48,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 49,
+      "era": "The Avengers Assemble",
+      "show": "I Am Groot",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 50,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 51,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 52,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 53,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 54,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 55,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 56,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 57,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 58,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 59,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 60,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 61,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 62,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S1E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 63,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 64,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 65,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 66,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 67,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 68,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 69,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 70,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 71,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 72,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 73,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 74,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 75,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S1E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 76,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Avengers: Age of Ultron",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 77,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Ant-Man",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 78,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 79,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 80,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 81,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 82,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 83,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 84,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 85,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 86,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 87,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 88,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 89,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 90,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S2E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 91,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 92,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 93,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 94,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 95,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 96,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 97,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 98,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 99,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 100,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 101,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 102,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 103,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S1E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 104,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 105,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 106,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 107,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 108,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 109,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 110,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 111,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 112,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 113,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 114,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 115,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 116,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S1E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 117,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 118,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 119,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 120,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 121,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 122,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 123,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 124,
+      "era": "Heroes & Defenders",
+      "show": "The Defenders",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 125,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Captain America: Civil War",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 126,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Black Widow",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 127,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Black Panther",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 128,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Spider-Man: Homecoming",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 129,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 130,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 131,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 132,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 133,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 134,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 135,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 136,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 137,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 138,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 139,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 140,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 141,
+      "era": "Heroes & Defenders",
+      "show": "The Punisher",
+      "episode": "S1E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 142,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Doctor Strange",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 143,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 144,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 145,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 146,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 147,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 148,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 149,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 150,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 151,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 152,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 153,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 154,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 155,
+      "era": "Heroes & Defenders",
+      "show": "Jessica Jones",
+      "episode": "S2E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 156,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 157,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 158,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 159,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 160,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 161,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 162,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 163,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 164,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 165,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 166,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 167,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 168,
+      "era": "Heroes & Defenders",
+      "show": "Luke Cage",
+      "episode": "S2E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 169,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 170,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 171,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 172,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 173,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 174,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 175,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 176,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 177,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 178,
+      "era": "Heroes & Defenders",
+      "show": "Iron Fist",
+      "episode": "S2E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 179,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 180,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 181,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 182,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 183,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 184,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 185,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 186,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 187,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 188,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 189,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 190,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 191,
+      "era": "Heroes & Defenders",
+      "show": "Daredevil",
+      "episode": "S3E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 192,
+      "era": "Heroes & Defenders",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Thor: Ragnarok",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 193,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 194,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 195,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 196,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 197,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 198,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 199,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 200,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 201,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 202,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 203,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 204,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 205,
+      "era": "Infinity Saga",
+      "show": "The Punisher",
+      "episode": "S2E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 206,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 207,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 208,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 209,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 210,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 211,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 212,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 213,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 214,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 215,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E10",
+      "title": "Episode 10",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 216,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E11",
+      "title": "Episode 11",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 217,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E12",
+      "title": "Episode 12",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 218,
+      "era": "Infinity Saga",
+      "show": "Jessica Jones",
+      "episode": "S3E13",
+      "title": "Episode 13",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 219,
+      "era": "Infinity Saga",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Ant-Man and the Wasp",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 220,
+      "era": "Infinity Saga",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Avengers: Infinity War",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 221,
+      "era": "Infinity Saga",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Avengers: Endgame",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 222,
+      "era": "Post-Blip & Multiverse",
+      "show": "Loki",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 223,
+      "era": "Post-Blip & Multiverse",
+      "show": "Loki",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 224,
+      "era": "Post-Blip & Multiverse",
+      "show": "Loki",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 225,
+      "era": "Post-Blip & Multiverse",
+      "show": "Loki",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 226,
+      "era": "Post-Blip & Multiverse",
+      "show": "Loki",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 227,
+      "era": "Post-Blip & Multiverse",
+      "show": "Loki",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 228,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 229,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 230,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 231,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 232,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 233,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 234,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 235,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 236,
+      "era": "Post-Blip & Multiverse",
+      "show": "What If...?",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 237,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Zombies",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 238,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Zombies",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 239,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Zombies",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 240,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Zombies",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 241,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 242,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 243,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 244,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 245,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 246,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 247,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 248,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 249,
+      "era": "Post-Blip & Multiverse",
+      "show": "WandaVision",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 250,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 251,
+      "era": "Post-Blip & Multiverse",
+      "show": "The Falcon and the Winter Soldier",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 252,
+      "era": "Post-Blip & Multiverse",
+      "show": "The Falcon and the Winter Soldier",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 253,
+      "era": "Post-Blip & Multiverse",
+      "show": "The Falcon and the Winter Soldier",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 254,
+      "era": "Post-Blip & Multiverse",
+      "show": "The Falcon and the Winter Soldier",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 255,
+      "era": "Post-Blip & Multiverse",
+      "show": "The Falcon and the Winter Soldier",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 256,
+      "era": "Post-Blip & Multiverse",
+      "show": "The Falcon and the Winter Soldier",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 257,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Spider-Man: Far From Home",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 258,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Spider-Man: No Way Home",
+      "type": "Film",
+      "timing": "",
+      "instructions": "Placed immediately after Far From Home for story continuity."
+    },
+    {
+      "position": 259,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Eternals",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 260,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 261,
+      "era": "Post-Blip & Multiverse",
+      "show": "Hawkeye",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 262,
+      "era": "Post-Blip & Multiverse",
+      "show": "Hawkeye",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 263,
+      "era": "Post-Blip & Multiverse",
+      "show": "Hawkeye",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 264,
+      "era": "Post-Blip & Multiverse",
+      "show": "Hawkeye",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 265,
+      "era": "Post-Blip & Multiverse",
+      "show": "Hawkeye",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 266,
+      "era": "Post-Blip & Multiverse",
+      "show": "Hawkeye",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 267,
+      "era": "Post-Blip & Multiverse",
+      "show": "Moon Knight",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 268,
+      "era": "Post-Blip & Multiverse",
+      "show": "Moon Knight",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 269,
+      "era": "Post-Blip & Multiverse",
+      "show": "Moon Knight",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 270,
+      "era": "Post-Blip & Multiverse",
+      "show": "Moon Knight",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 271,
+      "era": "Post-Blip & Multiverse",
+      "show": "Moon Knight",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 272,
+      "era": "Post-Blip & Multiverse",
+      "show": "Moon Knight",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 273,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Black Panther: Wakanda Forever",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 274,
+      "era": "Post-Blip & Multiverse",
+      "show": "Echo",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 275,
+      "era": "Post-Blip & Multiverse",
+      "show": "Echo",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 276,
+      "era": "Post-Blip & Multiverse",
+      "show": "Echo",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 277,
+      "era": "Post-Blip & Multiverse",
+      "show": "Echo",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 278,
+      "era": "Post-Blip & Multiverse",
+      "show": "Echo",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 279,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 280,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 281,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 282,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 283,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 284,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 285,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 286,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 287,
+      "era": "Post-Blip & Multiverse",
+      "show": "She-Hulk: Attorney at Law",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 288,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ms. Marvel",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 289,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ms. Marvel",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 290,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ms. Marvel",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 291,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ms. Marvel",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 292,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ms. Marvel",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 293,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ms. Marvel",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 294,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Thor: Love and Thunder",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 295,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ironheart",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 296,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ironheart",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 297,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ironheart",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 298,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ironheart",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 299,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ironheart",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 300,
+      "era": "Post-Blip & Multiverse",
+      "show": "Ironheart",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 301,
+      "era": "Post-Blip & Multiverse",
+      "show": "Marvel Special Presentation",
+      "episode": "",
+      "title": "Werewolf by Night",
+      "type": "Special",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 302,
+      "era": "New World & Multiverse",
+      "show": "Marvel Special Presentation",
+      "episode": "",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "type": "Special",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 303,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 304,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 305,
+      "era": "New World & Multiverse",
+      "show": "Secret Invasion",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 306,
+      "era": "New World & Multiverse",
+      "show": "Secret Invasion",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 307,
+      "era": "New World & Multiverse",
+      "show": "Secret Invasion",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 308,
+      "era": "New World & Multiverse",
+      "show": "Secret Invasion",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 309,
+      "era": "New World & Multiverse",
+      "show": "Secret Invasion",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 310,
+      "era": "New World & Multiverse",
+      "show": "Secret Invasion",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 311,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "The Marvels",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 312,
+      "era": "New World & Multiverse",
+      "show": "Loki",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 313,
+      "era": "New World & Multiverse",
+      "show": "Loki",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 314,
+      "era": "New World & Multiverse",
+      "show": "Loki",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 315,
+      "era": "New World & Multiverse",
+      "show": "Loki",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 316,
+      "era": "New World & Multiverse",
+      "show": "Loki",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 317,
+      "era": "New World & Multiverse",
+      "show": "Loki",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 318,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 319,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 320,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 321,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 322,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 323,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 324,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 325,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 326,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S2E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 327,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Deadpool & Wolverine",
+      "type": "Film",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 328,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 329,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 330,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 331,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 332,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 333,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 334,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 335,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 336,
+      "era": "New World & Multiverse",
+      "show": "Agatha All Along",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 337,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 338,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 339,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 340,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 341,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 342,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 343,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 344,
+      "era": "New World & Multiverse",
+      "show": "What If...?",
+      "episode": "S3E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 345,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 346,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 347,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 348,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 349,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 350,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 351,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 352,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 353,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S1E9",
+      "title": "Episode 9",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 354,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Captain America: Brave New World",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 355,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Thunderbolts*",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 356,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "The Fantastic Four: First Steps",
+      "type": "Film",
+      "timing": "",
+      "instructions": "Alternative timeline or multiverse branch. Position is a recommended viewing order, not a literal same-Earth date."
+    },
+    {
+      "position": 357,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 358,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 359,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 360,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 361,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 362,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 363,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 364,
+      "era": "New World & Multiverse",
+      "show": "Daredevil: Born Again",
+      "episode": "S2E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 365,
+      "era": "New World & Multiverse",
+      "show": "Marvel Special Presentation",
+      "episode": "",
+      "title": "The Punisher: One Last Kill",
+      "type": "Special",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 366,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E1",
+      "title": "Episode 1",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 367,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E2",
+      "title": "Episode 2",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 368,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 369,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 370,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 371,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 372,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 373,
+      "era": "New World & Multiverse",
+      "show": "Wonder Man",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 374,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E1",
+      "title": "No Strings",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 375,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E2",
+      "title": "Theseus",
+      "type": "TV",
+      "timing": "",
+      "instructions": ""
+    },
+    {
+      "position": 376,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E3",
+      "title": "Episode 3",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+    },
+    {
+      "position": 377,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E4",
+      "title": "Episode 4",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+    },
+    {
+      "position": 378,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E5",
+      "title": "Episode 5",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+    },
+    {
+      "position": 379,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E6",
+      "title": "Episode 6",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+    },
+    {
+      "position": 380,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E7",
+      "title": "Episode 7",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+    },
+    {
+      "position": 381,
+      "era": "New World & Multiverse",
+      "show": "VisionQuest",
+      "episode": "S1E8",
+      "title": "Episode 8",
+      "type": "TV",
+      "timing": "",
+      "instructions": "Upcoming episode. Release dates will follow the official Disney+ schedule."
+    },
+    {
+      "position": 382,
+      "era": "New World & Multiverse",
+      "show": "Marvel Studios",
+      "episode": "",
+      "title": "Spider-Man: Brand New Day",
+      "type": "Film",
+      "timing": "",
+      "instructions": ""
+    }
+  ]
+}
