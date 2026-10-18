@@ -98,6 +98,7 @@ function render(){
   $("#show").textContent=item.show||"Star Wars";
   $("#episode").textContent=item.episode||"";
   $("#title").textContent=item.title||item.raw||"";
+  $("#title").classList.toggle("hidden",!(item.title||item.raw));
   if(item.instructions){
     $("#instructions").textContent=item.instructions;
     $("#instructionBox").classList.remove("hidden");
