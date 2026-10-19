@@ -1,7 +1,7 @@
 {
   "version": 1,
   "purpose": "Confirmed future U.S. streaming releases to add to Star Path only after verified availability.",
-  "asOf": "2026-10-17",
+  "asOf": "2026-10-19",
   "policy": {
     "addOnlyWhenStreaming": "Do not add watch entries before the content is available on a legal U.S. streaming service.",
     "filmRule": "Theatrical-only releases stay pending until a verified streaming date.",
@@ -23,6 +23,50 @@
       "officialSource": "https://www.starwars.com/news/ahsoka-season-2",
       "placementHint": "After Ahsoka S1, pending verification against intervening New Republic chronology.",
       "notes": "Lucasfilm confirmed the premiere date; do not add show episodes until actually streamable."
+    },
+    {
+      "id": "marvel-visionquest-s1",
+      "franchise": "marvel",
+      "title": "VisionQuest",
+      "season": 1,
+      "platform": "Disney+",
+      "region": "US",
+      "status": "partially-streaming",
+      "alreadyInTimeline": true,
+      "availableEpisodes": [
+        "S1E1",
+        "S1E2"
+      ],
+      "nextReleaseDates": [
+        {
+          "date": "2026-10-21",
+          "episodes": [
+            "S1E3",
+            "S1E4"
+          ]
+        },
+        {
+          "date": "2026-10-28",
+          "episodes": [
+            "S1E5",
+            "S1E6"
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "episodes": [
+            "S1E7"
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "episodes": [
+            "S1E8"
+          ]
+        }
+      ],
+      "officialSource": "https://www.disneyplus.com/explore/articles/marvel-visionquest",
+      "notes": "Official Disney+ U.S. calendar dates. Check actual playback availability. Future episode placeholders already exist; never duplicate them."
     }
   ],
   "lastAdded": []
