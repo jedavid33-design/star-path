@@ -1,7 +1,7 @@
 {
   "version": 1,
   "purpose": "Confirmed future U.S. streaming releases to add to Star Path only after verified availability.",
-  "asOf": "2026-10-19",
+  "asOf": "2026-10-22",
   "policy": {
     "addOnlyWhenStreaming": "Do not add watch entries before the content is available on a legal U.S. streaming service.",
     "filmRule": "Theatrical-only releases stay pending until a verified streaming date.",
@@ -35,7 +35,9 @@
       "alreadyInTimeline": true,
       "availableEpisodes": [
         "S1E1",
-        "S1E2"
+        "S1E2",
+        "S1E3",
+        "S1E4"
       ],
       "nextReleaseDates": [
         {
@@ -66,7 +68,8 @@
         }
       ],
       "officialSource": "https://www.disneyplus.com/explore/articles/marvel-visionquest",
-      "notes": "Official Disney+ U.S. calendar dates. Check actual playback availability. Future episode placeholders already exist; never duplicate them."
+      "notes": "Disney+ U.S. confirms episodes 1–4 streaming. Next: episodes 5–6 on October 28, 7 on November 4, and 8 on November 11. Existing timeline entries already cover the entire season; avoid duplicates.",
+      "lastVerified": "2026-10-22"
     }
   ],
   "lastAdded": []
