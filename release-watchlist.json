@@ -1,7 +1,7 @@
 {
   "version": 1,
   "purpose": "Confirmed future U.S. streaming releases to add to Star Path only after verified availability.",
-  "asOf": "2026-10-22",
+  "asOf": "2026-10-23",
   "policy": {
     "addOnlyWhenStreaming": "Do not add watch entries before the content is available on a legal U.S. streaming service.",
     "filmRule": "Theatrical-only releases stay pending until a verified streaming date.",
@@ -41,36 +41,79 @@
       ],
       "nextReleaseDates": [
         {
-          "date": "2026-10-21",
-          "episodes": [
-            "S1E3",
-            "S1E4"
-          ]
-        },
-        {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
+          "usEasternTime": "21:00",
           "episodes": [
             "S1E5",
             "S1E6"
           ]
         },
         {
-          "date": "2026-11-04",
+          "date": "2026-11-03",
+          "usEasternTime": "21:00",
           "episodes": [
             "S1E7"
           ]
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-10",
+          "usEasternTime": "21:00",
           "episodes": [
             "S1E8"
           ]
         }
       ],
       "officialSource": "https://www.disneyplus.com/explore/articles/marvel-visionquest",
-      "notes": "Disney+ U.S. confirms episodes 1–4 streaming. Next: episodes 5–6 on October 28, 7 on November 4, and 8 on November 11. Existing timeline entries already cover the entire season; avoid duplicates.",
-      "lastVerified": "2026-10-22"
+      "notes": "Episodes 1–4 are streamable in the U.S. and already listed in the MCU chronology. Disney+ editorial calendar dates the next releases Oct 28, Nov 4 and Nov 11; U.S. premieres occur the previous evening at 9 p.m. ET (Oct 27, Nov 3 and Nov 10). Do not add duplicate episode entries. Verify next release individually.",
+      "lastVerified": "2026-10-23"
+    },
+    {
+      "id": "marvel-spiderman-brand-new-day-streaming",
+      "franchise": "marvel",
+      "title": "Spider-Man: Brand New Day",
+      "type": "film",
+      "platform": "TBD",
+      "region": "US",
+      "status": "theatrical-or-digital-only",
+      "theatricalReleaseYear": 2026,
+      "streamingDate": null,
+      "alreadyInTimeline": true,
+      "officialSource": "https://www.disneyplus.com/explore/articles/spider-man-movies-shows",
+      "notes": "Disney+ confirms it is still theatrical-only as of October 23. The film is already a future watch entry; do not duplicate it. Add streaming date when verified."
+    },
+    {
+      "id": "marvel-avengers-doomsday",
+      "franchise": "marvel",
+      "title": "Avengers: Doomsday",
+      "type": "film",
+      "platform": "TBD",
+      "region": "US",
+      "status": "scheduled-theatrical",
+      "theatricalReleaseDate": "2026-12-18",
+      "streamingDate": null,
+      "alreadyInTimeline": false,
+      "officialSource": "https://www.disneyplus.com/explore",
+      "notes": "Official Disney+ Explore announces theatrical-only December 18, 2026. Do not add to MCU timeline until actually streamable."
+    },
+    {
+      "id": "starwars-starfighter",
+      "franchise": "starwars",
+      "title": "Star Wars: Starfighter",
+      "type": "film",
+      "platform": "TBD",
+      "region": "US",
+      "status": "scheduled-theatrical",
+      "theatricalReleaseDate": "2027-05-28",
+      "streamingDate": null,
+      "alreadyInTimeline": false,
+      "officialSource": "https://www.starwars.com/news/star-wars-50-imax",
+      "notes": "Lucasfilm confirms theatrical May 28, 2027. Do not add until streaming release verified."
     }
   ],
-  "lastAdded": []
+  "lastAdded": [],
+  "lastChecked": {
+    "date": "2026-10-23",
+    "status": "no-new-missing-streamable-items",
+    "notes": "VisionQuest S1E3–4 released Oct 20 at 9 p.m. ET but already in MCU timeline. Maul – Shadow Lord S1 and The Mandalorian and Grogu are already in Star Wars chronology. Brand New Day remains theatrical; no missing new streamable canon item identified."
+  }
 }
