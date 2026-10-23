@@ -251,12 +251,16 @@ function exportProgress(){
 }
 async function init(){
   loadSaved();
-  let data=null;
-  try{ data=JSON.parse(localStorage.getItem(STORAGE.data)||"null"); }catch{}
-  if(!data){
-    try{ data=await (await fetch(IS_MARVEL?"marvel-list.json":"starwars-list.json")).json(); }
-    catch{ data=null; }
-  }
+  // Refresh the bundled chronology on each visit, while keeping watched/current keys
+  // and any deliberately imported custom timeline intact.
+  let savedData=null, bundledData=null;
+  try{ savedData=JSON.parse(localStorage.getItem(STORAGE.data)||"null"); }catch{}
+  try{
+    const response=await fetch(IS_MARVEL?"marvel-list.json":"starwars-list.json",{cache:"no-store"});
+    if(response.ok) bundledData=await response.json();
+  }catch{}
+  const imported=savedData?.sourceNote==="Imported master chronology";
+  const data=imported ? savedData : (bundledData||savedData);
   if(!data || !Array.isArray(data.items)){
     document.body.innerHTML = '<main class="app-shell"><section class="watch-card"><div><div class="eyebrow">STAR PATH</div><h2>Timeline could not load</h2><p style="color:#b7b3ca;line-height:1.5">Open Star Path from its hosted site so the chronology file can load.</p></div></section></main>';
     return;
