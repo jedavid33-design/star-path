@@ -1,7 +1,7 @@
 {
   "version": 1,
   "purpose": "Confirmed future U.S. streaming releases to add to Star Path only after verified availability.",
-  "asOf": "2026-10-24",
+  "asOf": "2026-10-25",
   "policy": {
     "addOnlyWhenStreaming": "Do not add watch entries before the content is available on a legal U.S. streaming service.",
     "filmRule": "Theatrical-only releases stay pending until a verified streaming date.",
@@ -23,7 +23,7 @@
       "officialSource": "https://www.starwars.com/news/ahsoka-season-2",
       "placementHint": "After Ahsoka S1, pending verification against intervening New Republic chronology.",
       "notes": "Lucasfilm confirmed the premiere date; do not add show episodes until actually streamable.",
-      "lastVerified": "2026-10-24"
+      "lastVerified": "2026-10-25"
     },
     {
       "id": "marvel-visionquest-s1",
@@ -66,7 +66,7 @@
       ],
       "officialSource": "https://www.disneyplus.com/explore/articles/marvel-visionquest",
       "notes": "Episodes 1–4 are streamable in the U.S. and already listed in the MCU chronology. Disney+ editorial calendar dates the next releases Oct 28, Nov 4 and Nov 11; U.S. premieres occur the previous evening at 9 p.m. ET (Oct 27, Nov 3 and Nov 10). Do not add duplicate episode entries. Verify next release individually.",
-      "lastVerified": "2026-10-24"
+      "lastVerified": "2026-10-25"
     },
     {
       "id": "marvel-spiderman-brand-new-day-streaming",
@@ -128,16 +128,16 @@
     }
   ],
   "lastAdded": [],
-  "lastChecked": "2026-10-24",
+  "lastChecked": "2026-10-25",
   "verificationNotes": {
-    "date": "2026-10-24",
-    "outcome": "No newly streamable in-scope Star Wars/MCU watch entry absent from the current lists. VisionQuest S1E1-E4 and The Mandalorian and Grogu are already present. No duplicate additions.",
+    "date": "2026-10-25",
+    "outcome": "No new eligible streamable Star Wars/MCU watch entries absent from either timeline. VisionQuest S1E3 and S1E4 are streaming since Oct 20 but already in marvel-list.json. Next VisionQuest drop is S1E5 and S1E6 on Oct 27 at 9 PM ET. The Mandalorian and Grogu is already listed and streaming. Ahsoka S2 remains scheduled Jan 20 2027.",
     "sources": [
-      "https://www.disneyplus.com/explore/articles/marvel-visionquest",
       "https://www.disneyplus.com/explore/articles/new-to-disney-plus",
       "https://www.starwars.com/films/star-wars-the-mandalorian-and-grogu",
-      "https://www.starwars.com/news/ahsoka-season-2"
+      "https://www.starwars.com/news/ahsoka-season-2",
+      "https://nerdist.com/article/what-is-the-release-schedule-for-visionquest-disney-plus/"
     ],
-    "excluded": "Preschool Marvel series, non-canon Star Wars content, and separate X-Men '97 continuity are outside the current MCU/Star Wars timeline rules."
+    "action": "No timeline changes or notification. Continue monitoring."
   }
 }
