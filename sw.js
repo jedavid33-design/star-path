@@ -1,4 +1,4 @@
-const CACHE="starpath-v6";
+const CACHE="starpath-v7";
 const ASSETS=["./","./index.html","./marvel.html","./styles.css","./app.js","./starwars-list.json","./marvel-list.json","./manifest.webmanifest"];
 self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener("activate",e=>e.waitUntil((async()=>{
