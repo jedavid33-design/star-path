@@ -88,6 +88,12 @@ function estimatedChronology(item){
   if(!Number.isFinite(p))return "";
   return chronologyEraDates.find(([end])=>p<=end)?.[1]||"";
 }
+function isUpcoming(item){
+  if(!IS_MARVEL) return false;
+  if(item.releaseAt) return new Date(item.releaseAt).getTime() > Date.now();
+  if(item.releaseDate) return new Date(item.releaseDate+"T23:59:59-04:00").getTime() > Date.now();
+  return false;
+}
 function render(){
   const item=state.items[state.index];
   if(!item) return;
@@ -104,7 +110,7 @@ function render(){
     $("#instructionBox").classList.remove("hidden");
   } else $("#instructionBox").classList.add("hidden");
   $("#watchedStamp").classList.toggle("hidden",!watched);
-  const upcoming=IS_MARVEL && item.releaseDate && new Date(item.releaseDate+"T00:00:00-04:00") > new Date();
+  const upcoming=isUpcoming(item);
   $("#watchedBtn").disabled=!!upcoming;
   $("#watchedBtn").textContent=upcoming?"⏳ Upcoming":watched?"↶ Mark unwatched":"✓ Watched";
   $("#prevBtn").disabled=state.index===0;
@@ -126,7 +132,7 @@ function nextUnwatched(){
 }
 function toggleWatched(){
   const item=state.items[state.index], k=keyFor(item);
-  if(IS_MARVEL && item.releaseDate && new Date(item.releaseDate+"T00:00:00-04:00")>new Date()) return;
+  if(isUpcoming(item)) return;
   if(state.watched.has(k)){ state.watched.delete(k); render(); toast("Marked unwatched"); return; }
   state.watched.add(k);
   if(state.index<state.items.length-1){ state.index++; render(); toast("Watched ✓"); }
@@ -205,7 +211,8 @@ function normalizeImported(data){
     instructions:x.instructions||x.note||"",
     timing:x.timing||x.date||"",
     type:x.type||"",
-    releaseDate:x.releaseDate||""
+    releaseDate:x.releaseDate||"",
+    releaseAt:x.releaseAt||""
   }));
   return {
     name:data.name||(IS_MARVEL?"MCU Chronological Watch":"Julie’s Star Wars Chronological Watch"),
