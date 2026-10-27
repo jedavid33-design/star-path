@@ -65,8 +65,8 @@
         }
       ],
       "officialSource": "https://www.disneyplus.com/explore/articles/marvel-visionquest",
-      "notes": "Episodes 1–4 are streamable in the U.S. and already listed in the MCU chronology. Disney+ editorial calendar dates the next releases Oct 28, Nov 4 and Nov 11; U.S. premieres occur the previous evening at 9 p.m. ET (Oct 27, Nov 3 and Nov 10). Do not add duplicate episode entries. Verify next release individually.",
-      "lastVerified": "2026-10-26"
+      "notes": "Episodes 1–4 are streamable and already listed; 5–6 launch Oct 27 at 9 p.m. ET, 7 Nov 3 at 9 p.m. ET, 8 Nov 10 at 9 p.m. ET. All episodes exist in the catalog, but releaseAt gates prevent marking future episodes early. Do not add duplicates.",
+      "lastVerified": "2026-10-27"
     },
     {
       "id": "marvel-spiderman-brand-new-day-streaming",
@@ -140,5 +140,7 @@
       "https://www.marvel.com/tv-shows/"
     ],
     "action": "No timeline additions; no user notification. Continue monitoring."
-  }
+  },
+  "lastCheckedAt": "2026-10-27T08:55:47-04:00",
+  "lastCheckedResult": "No newly streamable eligible entries absent from Star Path. VisionQuest S1E5–E6 are scheduled for 9 p.m. ET tonight and already exist as future entries; not yet streamable. Canon Star Wars additions Maul – Shadow Lord and The Mandalorian and Grogu are already listed."
 }
