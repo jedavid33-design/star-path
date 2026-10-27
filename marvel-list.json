@@ -3755,7 +3755,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "",
-      "releaseDate": "2026-10-13"
+      "releaseDate": "2026-10-13",
+      "releaseAt": "2026-10-13T21:00:00-04:00"
     },
     {
       "position": 375,
@@ -3766,7 +3767,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "",
-      "releaseDate": "2026-10-13"
+      "releaseDate": "2026-10-13",
+      "releaseAt": "2026-10-13T21:00:00-04:00"
     },
     {
       "position": 376,
@@ -3777,7 +3779,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "Scheduled for 2026-10-20 on Disney+. Episode title not yet verified here.",
-      "releaseDate": "2026-10-20"
+      "releaseDate": "2026-10-20",
+      "releaseAt": "2026-10-20T21:00:00-04:00"
     },
     {
       "position": 377,
@@ -3788,7 +3791,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "Scheduled for 2026-10-20 on Disney+. Episode title not yet verified here.",
-      "releaseDate": "2026-10-20"
+      "releaseDate": "2026-10-20",
+      "releaseAt": "2026-10-20T21:00:00-04:00"
     },
     {
       "position": 378,
@@ -3799,7 +3803,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "Scheduled for 2026-10-27 on Disney+. Episode title not yet verified here.",
-      "releaseDate": "2026-10-27"
+      "releaseDate": "2026-10-27",
+      "releaseAt": "2026-10-27T21:00:00-04:00"
     },
     {
       "position": 379,
@@ -3810,7 +3815,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "Scheduled for 2026-10-27 on Disney+. Episode title not yet verified here.",
-      "releaseDate": "2026-10-27"
+      "releaseDate": "2026-10-27",
+      "releaseAt": "2026-10-27T21:00:00-04:00"
     },
     {
       "position": 380,
@@ -3821,7 +3827,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "Scheduled for 2026-11-03 on Disney+. Episode title not yet verified here.",
-      "releaseDate": "2026-11-03"
+      "releaseDate": "2026-11-03",
+      "releaseAt": "2026-11-03T21:00:00-05:00"
     },
     {
       "position": 381,
@@ -3832,7 +3839,8 @@
       "type": "TV",
       "timing": "",
       "instructions": "Scheduled for 2026-11-10 on Disney+. Episode title not yet verified here.",
-      "releaseDate": "2026-11-10"
+      "releaseDate": "2026-11-10",
+      "releaseAt": "2026-11-10T21:00:00-05:00"
     },
     {
       "position": 382,
