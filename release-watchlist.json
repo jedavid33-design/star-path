@@ -1,7 +1,7 @@
 {
   "version": 1,
   "purpose": "Confirmed future U.S. streaming releases to add to Star Path only after verified availability.",
-  "asOf": "2026-10-26",
+  "asOf": "2026-10-28",
   "policy": {
     "addOnlyWhenStreaming": "Do not add watch entries before the content is available on a legal U.S. streaming service.",
     "filmRule": "Theatrical-only releases stay pending until a verified streaming date.",
@@ -38,17 +38,11 @@
         "S1E1",
         "S1E2",
         "S1E3",
-        "S1E4"
+        "S1E4",
+        "S1E5",
+        "S1E6"
       ],
       "nextReleaseDates": [
-        {
-          "date": "2026-10-27",
-          "usEasternTime": "21:00",
-          "episodes": [
-            "S1E5",
-            "S1E6"
-          ]
-        },
         {
           "date": "2026-11-03",
           "usEasternTime": "21:00",
@@ -65,8 +59,8 @@
         }
       ],
       "officialSource": "https://www.disneyplus.com/explore/articles/marvel-visionquest",
-      "notes": "Episodes 1–4 are streamable and already listed; 5–6 launch Oct 27 at 9 p.m. ET, 7 Nov 3 at 9 p.m. ET, 8 Nov 10 at 9 p.m. ET. All episodes exist in the catalog, but releaseAt gates prevent marking future episodes early. Do not add duplicates.",
-      "lastVerified": "2026-10-27"
+      "notes": "Episodes 1–6 are confirmed streaming on Disney+ U.S. as of Oct 28, 2026. Episodes 7 and 8 are scheduled for Nov 3 and Nov 10 at 9 p.m. Eastern. All 8 are already listed; do not add duplicates. Official titles for 3–6 verified from Disney+ episode listings.",
+      "lastVerified": "2026-10-28"
     },
     {
       "id": "marvel-spiderman-brand-new-day-streaming",
@@ -128,19 +122,20 @@
     }
   ],
   "lastAdded": [],
-  "lastChecked": "2026-10-26",
+  "lastChecked": "2026-10-28",
   "verificationNotes": {
-    "date": "2026-10-26",
-    "outcome": "No new eligible Star Wars or MCU screen releases missing from the existing watch timelines are confirmed streamable in the United States today. VisionQuest S1E1–E4 are available and already included. Disney+ lists S1E5–E6 for Oct 28 in its published date convention, corresponding to the Oct 27 9 p.m. ET U.S. drop; do not mark available before then. Ahsoka S2 confirmed for Jan 20, 2027 and remains pending. The Mandalorian and Grogu is already listed at Star Wars position 485 and is streaming on Disney+. Children's non-MCU Marvel cartoons, LEGO and Visions noncanon projects, and sports tie-ins are excluded. Marvel Animation alternate-continuity projects absent from the current MCU chronology require explicit scope decision, not automatic insertion.",
+    "date": "2026-10-28",
+    "outcome": "No eligible new watch entries missing from either timeline. VisionQuest S1E5 and S1E6 became streamable Oct 27 at 9 p.m. ET; both were already in the 382-entry MCU timeline with correct releaseAt gates. Official episode titles verified and added as non-key watch notes, preserving watched keys. Ahsoka S2 Jan 20, 2027 remains pending. Star Wars Funday Football is an NFL telecast, not canon story content; children's Marvel animations outside MCU are excluded.",
     "sources": [
+      "https://www.disneyplus.com/explore/articles/marvel-visionquest",
+      "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
       "https://www.disneyplus.com/explore/articles/new-to-disney-plus",
-      "https://www.disneyplus.com/en-gb/explore/articles/marvel-visionquest",
+      "https://press.disneyplus.com/news/next-on-disney-plus-november-2026",
       "https://www.starwars.com/news/ahsoka-season-2",
-      "https://www.starwars.com/news/star-wars-the-mandalorian-and-grogu-watch-at-home",
-      "https://www.marvel.com/tv-shows/"
+      "https://press.disneyplus.com/news/star-wars-funday-football"
     ],
-    "action": "No timeline additions; no user notification. Continue monitoring."
+    "action": "Metadata-only refresh. No new watch items added. No user notification."
   },
-  "lastCheckedAt": "2026-10-27T08:55:47-04:00",
-  "lastCheckedResult": "No newly streamable eligible entries absent from Star Path. VisionQuest S1E5–E6 are scheduled for 9 p.m. ET tonight and already exist as future entries; not yet streamable. Canon Star Wars additions Maul – Shadow Lord and The Mandalorian and Grogu are already listed."
+  "lastCheckedAt": "2026-10-28T09:05:35-04:00",
+  "lastCheckedResult": "No eligible new watch entries missing from either timeline. VisionQuest S1E5 and S1E6 became streamable Oct 27 at 9 p.m. ET; both were already in the 382-entry MCU timeline with correct releaseAt gates. Official episode titles verified and added as non-key watch notes, preserving watched keys. Ahsoka S2 Jan 20, 2027 remains pending. Star Wars Funday Football is an NFL telecast, not canon story content; children's Marvel animations outside MCU are excluded."
 }
