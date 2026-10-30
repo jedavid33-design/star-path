@@ -1,7 +1,7 @@
 {
   "version": 1,
   "purpose": "Confirmed future U.S. streaming releases to add to Star Path only after verified availability.",
-  "asOf": "2026-10-28",
+  "asOf": "2026-10-30",
   "policy": {
     "addOnlyWhenStreaming": "Do not add watch entries before the content is available on a legal U.S. streaming service.",
     "filmRule": "Theatrical-only releases stay pending until a verified streaming date.",
@@ -122,20 +122,22 @@
     }
   ],
   "lastAdded": [],
-  "lastChecked": "2026-10-28",
+  "lastChecked": "2026-10-30",
   "verificationNotes": {
-    "date": "2026-10-28",
-    "outcome": "No eligible new watch entries missing from either timeline. VisionQuest S1E5 and S1E6 became streamable Oct 27 at 9 p.m. ET; both were already in the 382-entry MCU timeline with correct releaseAt gates. Official episode titles verified and added as non-key watch notes, preserving watched keys. Ahsoka S2 Jan 20, 2027 remains pending. Star Wars Funday Football is an NFL telecast, not canon story content; children's Marvel animations outside MCU are excluded.",
+    "date": "2026-10-30",
+    "outcome": "No newly streamable eligible Star Wars or MCU movie/episode absent from the existing watch lists. VisionQuest S1E1–E6 are already included and available; S1E7–E8 are not released until November 3/10 at 9 p.m. ET (November 4/11 Disney+ calendar dates). The Mandalorian and Grogu is already at Star Wars position 485 and has streamed on Disney+ since September 2, 2026. October 30 releases of Marvel's Spidey and his Amazing Friends are preschool/non-MCU and excluded. Ahsoka S2 remains January 20, 2027. No watch-list item or app code changes required.",
     "sources": [
+      "https://www.disneyplus.com/explore/articles/new-to-disney-plus",
       "https://www.disneyplus.com/explore/articles/marvel-visionquest",
       "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
-      "https://www.disneyplus.com/explore/articles/new-to-disney-plus",
       "https://press.disneyplus.com/news/next-on-disney-plus-november-2026",
-      "https://www.starwars.com/news/ahsoka-season-2",
-      "https://press.disneyplus.com/news/star-wars-funday-football"
+      "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+      "https://press.disneyplus.com/news/star-wars-the-mandalorian",
+      "https://www.disneyplus.com/explore/articles/spider-man-movies-shows",
+      "https://www.disneyplus.com/explore/articles/countdown-to-avengers-doomsday"
     ],
-    "action": "Metadata-only refresh. No new watch items added. No user notification."
+    "action": "Release-watchlist verification metadata only. No new canon streaming entries to add; no user notification."
   },
-  "lastCheckedAt": "2026-10-28T09:05:35-04:00",
-  "lastCheckedResult": "No eligible new watch entries missing from either timeline. VisionQuest S1E5 and S1E6 became streamable Oct 27 at 9 p.m. ET; both were already in the 382-entry MCU timeline with correct releaseAt gates. Official episode titles verified and added as non-key watch notes, preserving watched keys. Ahsoka S2 Jan 20, 2027 remains pending. Star Wars Funday Football is an NFL telecast, not canon story content; children's Marvel animations outside MCU are excluded."
+  "lastCheckedAt": "2026-10-30T08:48:35-04:00",
+  "lastCheckedResult": "No newly streamable eligible Star Wars or MCU movie/episode absent from the existing watch lists. VisionQuest S1E1–E6 are already included and available; S1E7–E8 are not released until November 3/10 at 9 p.m. ET (November 4/11 Disney+ calendar dates). The Mandalorian and Grogu is already at Star Wars position 485 and has streamed on Disney+ since September 2, 2026. October 30 releases of Marvel's Spidey and his Amazing Friends are preschool/non-MCU and excluded. Ahsoka S2 remains January 20, 2027. No watch-list item or app code changes required."
 }
