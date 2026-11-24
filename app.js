@@ -27,6 +27,25 @@ function loadSaved(){
   try{ state.watched=new Set(JSON.parse(localStorage.getItem(STORAGE.watched)||"[]")); }
   catch{ state.watched=new Set(); }
 }
+// Migrate saved Season 1 keys when the bundled Disney+ split premiere is installed.
+function migrateResistanceProgress(data){
+  if(IS_MARVEL || !data.resistanceProgressMigration) return;
+  const marker="starpath.resistance-split-premiere.v1";
+  if(localStorage.getItem(marker)) return;
+  const mapping=data.resistanceProgressMigration;
+  const oldWatched=[...state.watched];
+  for(const oldKey of oldWatched){
+    if(!Object.prototype.hasOwnProperty.call(mapping,oldKey)) continue;
+    state.watched.delete(oldKey);
+    for(const newKey of mapping[oldKey]) state.watched.add(newKey);
+  }
+  const current=localStorage.getItem(STORAGE.current);
+  if(current && Object.prototype.hasOwnProperty.call(mapping,current)){
+    localStorage.setItem(STORAGE.current,mapping[current][0]);
+  }
+  localStorage.setItem(STORAGE.watched,JSON.stringify([...state.watched]));
+  localStorage.setItem(marker,"1");
+}
 function findCurrentIndex(){
   const explicit=Number(state.data?.currentPosition);
   if(explicit){
@@ -272,7 +291,7 @@ async function init(){
     document.body.innerHTML = '<main class="app-shell"><section class="watch-card"><div><div class="eyebrow">STAR PATH</div><h2>Timeline could not load</h2><p style="color:#b7b3ca;line-height:1.5">Open Star Path from its hosted site so the chronology file can load.</p></div></section></main>';
     return;
   }
-  state.data=data; state.items=data.items||[]; applyInitialState(); state.index=findCurrentIndex(); render();
+  state.data=data; state.items=data.items||[]; if(!imported) migrateResistanceProgress(data); applyInitialState(); state.index=findCurrentIndex(); render();
 
   $("#prevBtn").onclick=()=>go(state.index-1);
   $("#nextBtn").onclick=()=>go(state.index+1);
