@@ -1,13 +1,13 @@
 {
   "name": "Julie’s Star Wars Canon Chronological Watch",
   "version": 3,
-  "masterTotal": 547,
-  "sourceVersion": "2026-10-03 · chronology-era-dates-2026-10-09",
+  "masterTotal": 550,
+  "sourceVersion": "2026-10-03 · chronology-era-dates-2026-10-09 · resistance-crossover-2026-11-23",
   "currentPosition": 464,
   "initialWatchedThrough": 463,
   "preWatchedTitles": [],
   "specialUnmarkedPositions": [
-    538
+    523
   ],
   "rules": {
     "canonScreenStoriesOnly": true,
@@ -4385,354 +4385,174 @@
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E1",
-      "title": "“The Recruit”",
+      "title": "“The Recruit: Part 1”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 487,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E2",
-      "title": "“The Triple Dark”",
+      "title": "“The Recruit: Part 2”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 488,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E3",
-      "title": "“Fuel for the Fire”",
+      "title": "“The Triple Dark”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 489,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E4",
-      "title": "“The High Tower”",
+      "title": "“Fuel for the Fire”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 490,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E5",
-      "title": "“The Children from Tehar”",
+      "title": "“The High Tower”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 491,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E6",
-      "title": "“Signal from Sector Six”",
+      "title": "“The Children from Tehar”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 492,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E7",
-      "title": "“Synara’s Score”",
+      "title": "“Signal from Sector Six”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 493,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E8",
-      "title": "“The Platform Classic”",
+      "title": "“Synara’s Score”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 494,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E9",
-      "title": "“Secrets and Holograms”",
+      "title": "“The Platform Classic”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 495,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E10",
-      "title": "“Station Theta Black”",
+      "title": "“Secrets and Holograms”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 496,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E11",
-      "title": "“Bibo”",
+      "title": "“Station Theta Black”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 497,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E12",
-      "title": "“Dangerous Business”",
+      "title": "“Bibo”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 498,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E13",
-      "title": "“The Doza Dilemma”",
+      "title": "“Dangerous Business”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 499,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E14",
-      "title": "“The First Order Occupation”",
+      "title": "“The Doza Dilemma”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 500,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E15",
-      "title": "“The New Trooper”",
+      "title": "“The First Order Occupation”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 501,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E16",
-      "title": "“The Core Problem”",
+      "title": "“The New Trooper”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 502,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E17",
-      "title": "“The Disappeared”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "title": "“The Core Problem”",
+      "instructions": "Poe’s Jakku assignment leads into Episode VII. Continue through S1E19 before starting the movie; the storylines begin to overlap.",
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 503,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E18",
-      "title": "“Descent”",
+      "title": "“The Disappeared”",
       "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 504,
       "era": "Sequel Era / Resistance",
       "show": "Star Wars Resistance",
       "episode": "S1E19",
-      "title": "“No Escape: Part 1”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
+      "title": "“Descent”",
+      "instructions": "Watch the whole episode, then begin the Episode VII sequence in Star Path. The final episodes overlap the movie.",
+      "timing": "Sequel era · 34 ABY"
     },
     {
       "position": 505,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S1E20",
-      "title": "“No Escape: Part 2”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 506,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E1",
-      "title": "“Into the Unknown”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 507,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E2",
-      "title": "“A Quick Salvage Run”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 508,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E3",
-      "title": "“Live Fire”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 509,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E4",
-      "title": "“Hunt on Celsor 3”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 510,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E5",
-      "title": "“The Engineer”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 511,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E6",
-      "title": "“From Beneath”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 512,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E7",
-      "title": "“The Relic Raiders”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 513,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E8",
-      "title": "“Rendezvous Point”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 514,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E9",
-      "title": "“The Voxx Vortex 5000”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 515,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E10",
-      "title": "“Kaz’s Curse”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 516,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E11",
-      "title": "“Station to Station”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 517,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E12",
-      "title": "“The Missing Agent”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 518,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E13",
-      "title": "“Breakout”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 519,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E14",
-      "title": "“The Mutiny”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 520,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E15",
-      "title": "“The New World”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 521,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E16",
-      "title": "“No Place Safe”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 522,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E17",
-      "title": "“Rebuilding the Resistance”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 523,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E18",
-      "title": "“The Escape: Part 1”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 524,
-      "era": "Sequel Era / Resistance",
-      "show": "Star Wars Resistance",
-      "episode": "S2E19",
-      "title": "“The Escape: Part 2”",
-      "instructions": "",
-      "timing": "Sequel era · c. 34–35 ABY"
-    },
-    {
-      "position": 525,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S1E15",
@@ -4741,7 +4561,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 526,
+      "position": 506,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S2E5",
@@ -4750,7 +4570,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 527,
+      "position": 507,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4759,7 +4579,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 528,
+      "position": 508,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S1E1",
@@ -4768,7 +4588,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 529,
+      "position": 509,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S1E2",
@@ -4777,7 +4597,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 530,
+      "position": 510,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4786,7 +4606,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 531,
+      "position": 511,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4795,7 +4615,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 532,
+      "position": 512,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S1E10",
@@ -4804,16 +4624,61 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 533,
+      "position": 513,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
       "title": "Resume The Force Awakens",
-      "instructions": "Resume after Tracker Trouble.",
+      "instructions": "Resume after Tracker Trouble. Pause after the scene with General Hux’s speech on Starkiller Base (roughly 1:10:50, depending on player). Then watch Resistance S1E20–21. The scenes overlap; the whole-episode cut is an editorial viewing choice.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 534,
+      "position": 514,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E20",
+      "title": "“No Escape: Part 1”",
+      "instructions": "Watch the whole episode. This overlaps the movie scene you just watched.",
+      "timing": "Sequel era · 34 ABY"
+    },
+    {
+      "position": 515,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S1E21",
+      "title": "“No Escape: Part 2”",
+      "instructions": "Watch the whole episode, then return to Episode VII.",
+      "timing": "Sequel era · 34 ABY"
+    },
+    {
+      "position": 516,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "The Force Awakens — Resistance crossover continuation",
+      "instructions": "Resume from the previous movie pause. Stop at approximately 1:20:55 (fan-compiled guide, not an official timestamp); then watch Resistance S2E1 in full. Some events overlap.",
+      "timing": "Sequel era · 34 ABY"
+    },
+    {
+      "position": 517,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E1",
+      "title": "“Into the Unknown”",
+      "instructions": "Watch the whole episode here as a practical crossover placement; its events overlap Episode VII. Then resume the movie.",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 518,
+      "era": "Sequel Era / Resistance",
+      "show": "Movie",
+      "episode": "",
+      "title": "The Force Awakens — resume after Resistance S2E1",
+      "instructions": "Resume at your last pause (approximately 1:20:55), then follow the next existing movie/short watch note.",
+      "timing": "Sequel era · 34 ABY"
+    },
+    {
+      "position": 519,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4822,7 +4687,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 535,
+      "position": 520,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S2E13",
@@ -4831,7 +4696,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 536,
+      "position": 521,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4840,7 +4705,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 537,
+      "position": 522,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4849,7 +4714,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 538,
+      "position": 523,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S2E8",
@@ -4858,7 +4723,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 539,
+      "position": 524,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S2E12",
@@ -4867,7 +4732,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 540,
+      "position": 525,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4876,7 +4741,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 541,
+      "position": 526,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4885,7 +4750,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 542,
+      "position": 527,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S2E3",
@@ -4894,7 +4759,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 543,
+      "position": 528,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4903,7 +4768,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 544,
+      "position": 529,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4912,7 +4777,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 545,
+      "position": 530,
       "era": "Sequel Era / Resistance",
       "show": "Forces of Destiny",
       "episode": "S2E12",
@@ -4921,7 +4786,7 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
-      "position": 546,
+      "position": 531,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4930,7 +4795,169 @@
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
+      "position": 532,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E2",
+      "title": "“A Quick Salvage Run”",
+      "instructions": "This episode overlaps the early events of Episode VIII. For a spoiler-safe whole-episode viewing order, watch it after finishing The Last Jedi.",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 533,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E3",
+      "title": "“Live Fire”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 534,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E4",
+      "title": "“Hunt on Celsor 3”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 535,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E5",
+      "title": "“The Engineer”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 536,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E6",
+      "title": "“From Beneath”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 537,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E7",
+      "title": "“The Relic Raiders”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 538,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E8",
+      "title": "“Rendezvous Point”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 539,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E9",
+      "title": "“The Voxx Vortex 5000”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 540,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E10",
+      "title": "“Kaz’s Curse”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 541,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E11",
+      "title": "“Station to Station”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 542,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E12",
+      "title": "“The Missing Agent”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 543,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E13",
+      "title": "“Breakout”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 544,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E14",
+      "title": "“The Mutiny”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 545,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E15",
+      "title": "“The New World”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 546,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E16",
+      "title": "“No Place Safe”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
       "position": 547,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E17",
+      "title": "“Rebuilding the Resistance”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 548,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E18",
+      "title": "“The Escape: Part 1”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 549,
+      "era": "Sequel Era / Resistance",
+      "show": "Star Wars Resistance",
+      "episode": "S2E19",
+      "title": "“The Escape: Part 2”",
+      "instructions": "",
+      "timing": "Sequel era · c. 34–35 ABY"
+    },
+    {
+      "position": 550,
       "era": "Sequel Era / Resistance",
       "show": "Movie",
       "episode": "",
@@ -4968,5 +4995,69 @@
     18,
     19,
     20
-  ]
+  ],
+  "resistanceProgressMigration": {
+    "star wars resistance|s1e1|“the recruit”": [
+      "star wars resistance|s1e1|“the recruit: part 1”",
+      "star wars resistance|s1e2|“the recruit: part 2”"
+    ],
+    "star wars resistance|s1e2|“the triple dark”": [
+      "star wars resistance|s1e3|“the triple dark”"
+    ],
+    "star wars resistance|s1e3|“fuel for the fire”": [
+      "star wars resistance|s1e4|“fuel for the fire”"
+    ],
+    "star wars resistance|s1e4|“the high tower”": [
+      "star wars resistance|s1e5|“the high tower”"
+    ],
+    "star wars resistance|s1e5|“the children from tehar”": [
+      "star wars resistance|s1e6|“the children from tehar”"
+    ],
+    "star wars resistance|s1e6|“signal from sector six”": [
+      "star wars resistance|s1e7|“signal from sector six”"
+    ],
+    "star wars resistance|s1e7|“synara’s score”": [
+      "star wars resistance|s1e8|“synara’s score”"
+    ],
+    "star wars resistance|s1e8|“the platform classic”": [
+      "star wars resistance|s1e9|“the platform classic”"
+    ],
+    "star wars resistance|s1e9|“secrets and holograms”": [
+      "star wars resistance|s1e10|“secrets and holograms”"
+    ],
+    "star wars resistance|s1e10|“station theta black”": [
+      "star wars resistance|s1e11|“station theta black”"
+    ],
+    "star wars resistance|s1e11|“bibo”": [
+      "star wars resistance|s1e12|“bibo”"
+    ],
+    "star wars resistance|s1e12|“dangerous business”": [
+      "star wars resistance|s1e13|“dangerous business”"
+    ],
+    "star wars resistance|s1e13|“the doza dilemma”": [
+      "star wars resistance|s1e14|“the doza dilemma”"
+    ],
+    "star wars resistance|s1e14|“the first order occupation”": [
+      "star wars resistance|s1e15|“the first order occupation”"
+    ],
+    "star wars resistance|s1e15|“the new trooper”": [
+      "star wars resistance|s1e16|“the new trooper”"
+    ],
+    "star wars resistance|s1e16|“the core problem”": [
+      "star wars resistance|s1e17|“the core problem”"
+    ],
+    "star wars resistance|s1e17|“the disappeared”": [
+      "star wars resistance|s1e18|“the disappeared”"
+    ],
+    "star wars resistance|s1e18|“descent”": [
+      "star wars resistance|s1e19|“descent”"
+    ],
+    "star wars resistance|s1e19|“no escape: part 1”": [
+      "star wars resistance|s1e20|“no escape: part 1”"
+    ],
+    "star wars resistance|s1e20|“no escape: part 2”": [
+      "star wars resistance|s1e21|“no escape: part 2”"
+    ]
+  },
+  "resistanceChronologyNote": "Disney+ splits The Recruit into two episodes. Season 1 finale overlaps Episode VII; S2E1 also overlaps Episode VII. S2E2 overlaps early Episode VIII and is placed after the film for whole-episode spoiler-safe viewing. Movie times are approximate editorial cues."
 }
