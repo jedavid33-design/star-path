@@ -2,7 +2,7 @@
   "name": "Julie’s Star Wars Canon Chronological Watch",
   "version": 3,
   "masterTotal": 550,
-  "sourceVersion": "2026-10-03 · chronology-era-dates-2026-10-09 · resistance-crossover-2026-11-23",
+  "sourceVersion": "2026-10-03 · chronology-era-dates-2026-10-09 · resistance-crossover-2026-11-23 · movie-pause-timestamps-2026-11-25",
   "currentPosition": 464,
   "initialWatchedThrough": 463,
   "preWatchedTitles": [],
@@ -4575,7 +4575,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Episode VII: The Force Awakens",
-      "instructions": "Pause after Rey meets BB-8.",
+      "instructions": "Watch from the beginning. Pause at approximately 00:16:43, after Rey meets BB-8 on Jakku.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4602,7 +4602,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Resume The Force Awakens",
-      "instructions": "Resume after Sands of Jakku and BB-8 Bandits; this is around the early Jakku sequence.",
+      "instructions": "Resume at approximately 00:16:43, after Sands of Jakku and BB-8 Bandits. Continue to the next movie pause note (#511).",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4611,7 +4611,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Episode VII: The Force Awakens",
-      "instructions": "Pause after the Falcon escapes Jakku.",
+      "instructions": "Continue to approximately 00:49:20, after the Falcon has left Jakku and before the Tracker Trouble short. Pause here.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4629,7 +4629,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Resume The Force Awakens",
-      "instructions": "Resume after Tracker Trouble. Pause after the scene with General Hux’s speech on Starkiller Base (roughly 1:10:50, depending on player). Then watch Resistance S1E20–21. The scenes overlap; the whole-episode cut is an editorial viewing choice.",
+      "instructions": "Resume at approximately 00:49:20 after Tracker Trouble. Pause around 01:10:50–01:11:05, following General Hux’s speech on Starkiller Base. Then watch Resistance S1E20–21 in full. The stories overlap; this is a practical whole-episode cut.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4656,7 +4656,7 @@
       "show": "Movie",
       "episode": "",
       "title": "The Force Awakens — Resistance crossover continuation",
-      "instructions": "Resume from the previous movie pause. Stop at approximately 1:20:55 (fan-compiled guide, not an official timestamp); then watch Resistance S2E1 in full. Some events overlap.",
+      "instructions": "Resume around 01:10:50–01:11:05, from your previous pause. Pause at approximately 01:20:55 and watch Resistance S2E1 in full. This is a practical whole-episode crossover cut.",
       "timing": "Sequel era · 34 ABY"
     },
     {
@@ -4674,7 +4674,7 @@
       "show": "Movie",
       "episode": "",
       "title": "The Force Awakens — resume after Resistance S2E1",
-      "instructions": "Resume at your last pause (approximately 1:20:55), then follow the next existing movie/short watch note.",
+      "instructions": "Resume at approximately 01:20:55, after Resistance S2E1. Continue to the next movie pause note (#519).",
       "timing": "Sequel era · 34 ABY"
     },
     {
@@ -4683,7 +4683,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Episode VII: The Force Awakens",
-      "instructions": "Pause during the Starkiller Base battle.",
+      "instructions": "Continue to approximately 01:42:55 during the Starkiller Base battle. Pause here for Perilous Pursuit.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4701,7 +4701,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Resume The Force Awakens",
-      "instructions": "Resume after Perilous Pursuit.",
+      "instructions": "Resume at approximately 01:42:55 after Perilous Pursuit. Watch through the end of The Force Awakens.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4710,7 +4710,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Episode VIII: The Last Jedi",
-      "instructions": "Pause during Rey’s training on Ahch-To.",
+      "instructions": "Watch from the beginning. Pause at approximately 00:51:40 during the Ahch-To sequence. Watch Porg Problems and Porgs! together as a convenient short block; the latter occurs a little later in the film.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4737,7 +4737,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Resume The Last Jedi",
-      "instructions": "Approximate guide: TLJ 0:44:28–0:54:03 → Shuttle Shock → TLJ 0:54:04–0:57:37 → Porg Problems + Porgs! → TLJ 0:57:38–1:24:15. Use scene cues over exact player timestamps.",
+      "instructions": "Resume at approximately 00:51:40 after the two Porg shorts. Continue to the next movie pause note (#526).",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4746,7 +4746,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Episode VIII: The Last Jedi",
-      "instructions": "Pause when Finn and Rose depart for Canto Bight.",
+      "instructions": "Continue to approximately 00:54:03 as Finn and Rose head toward Canto Bight. Pause for Shuttle Shock.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4764,7 +4764,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Resume The Last Jedi",
-      "instructions": "Resume after Shuttle Shock.",
+      "instructions": "Resume at approximately 00:54:03–00:54:04 after Shuttle Shock. Continue to the next movie note (#529).",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4773,7 +4773,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Episode VIII: The Last Jedi",
-      "instructions": "Pause while the Falcon is on Ahch-To.",
+      "instructions": "Continue to approximately 00:57:37, near the alternate Porg short insertion point. If you already watched Porgs! at #524, you can continue directly to the final movie segment.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4782,7 +4782,7 @@
       "show": "Forces of Destiny",
       "episode": "S2E12",
       "title": "“Porgs!”",
-      "instructions": "Alternate scene-level cut.",
+      "instructions": "Alternate Porgs! insertion point, around 00:57:37. If you watched this short at #524, do not watch it again.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -4791,7 +4791,7 @@
       "show": "Movie",
       "episode": "",
       "title": "Resume The Last Jedi",
-      "instructions": "Resume after Porgs!.",
+      "instructions": "Resume at approximately 00:57:37–00:57:38 (or keep playing if you skipped the duplicate short). Finish The Last Jedi.",
       "timing": "Sequel era · c. 34–35 ABY"
     },
     {
@@ -5059,5 +5059,6 @@
       "star wars resistance|s1e21|“no escape: part 2”"
     ]
   },
-  "resistanceChronologyNote": "Disney+ splits The Recruit into two episodes. Season 1 finale overlaps Episode VII; S2E1 also overlaps Episode VII. S2E2 overlaps early Episode VIII and is placed after the film for whole-episode spoiler-safe viewing. Movie times are approximate editorial cues."
+  "resistanceChronologyNote": "Disney+ splits The Recruit into two episodes. Season 1 finale overlaps Episode VII; S2E1 also overlaps Episode VII. S2E2 overlaps early Episode VIII and is placed after the film for whole-episode spoiler-safe viewing. Movie times are approximate editorial cues.",
+  "movieTimestampNote": "Approximate elapsed playback times, not Disney+ verified. Scene cues take precedence. Existing movie cards and positions retained. Sources: https://creepersneedhugs.neocities.org/timeline/canon and https://www.scribd.com/document/645864452/Star-Wars-Chronology. Whole-episode and grouped-short cuts are editorial conveniences."
 }
